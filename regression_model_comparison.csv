@@ -1,0 +1,4 @@
+model,test_r2,test_mae_aed,test_rmse_aed,cv_r2
+Ridge Regression,0.629,40.197,52.764,0.613
+Random Forest,0.624,39.98,53.108,0.577
+Gradient Boosting,0.637,38.951,52.191,0.603

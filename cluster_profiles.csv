@@ -1,0 +1,4 @@
+cluster,size,pct_yes,pct_interested,median_wtp,mean_age,median_income,screen_hrs,low_battery_per_week,battery_anxiety,hrs_away,price_sensitivity,pct_iphone,pct_powerbank,problems,share,tier,name
+0,374,0.313,0.717,190.0,31.43,10100.0,8.22,3.631,3.0,5.518,3.102,0.532,0.652,2.337,0.26,High,High propensity: high battery anxiety
+1,542,0.07,0.31,220.0,35.533,13300.0,5.001,1.531,1.734,4.872,2.635,0.624,0.258,1.577,0.376,Medium,Medium propensity: higher income
+2,524,0.015,0.124,130.0,28.769,3750.0,6.081,1.87,1.989,4.703,4.008,0.372,0.281,1.16,0.364,Low,Low propensity: lower income

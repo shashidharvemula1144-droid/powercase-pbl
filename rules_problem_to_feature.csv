@@ -1,0 +1,22 @@
+if_customer,then_also,support,confidence,lift
+No charger or outlet available + Battery drains while travelling,"High capacity (4,000 mAh+)",0.05,0.655,1.45
+Phone died before end of workday + Battery drains while travelling,"High capacity (4,000 mAh+)",0.061,0.62,1.38
+Missed important call or OTP,Fast charging,0.071,0.607,1.35
+Phone died while navigating + Phone died before end of workday,Drop protection,0.047,0.567,1.3
+Power bank and cables too bulky,Slim design,0.127,0.762,1.28
+Forgot or lost power bank + Power bank and cables too bulky,Slim design,0.042,0.759,1.28
+Phone died before end of workday + Power bank and cables too bulky,Slim design,0.051,0.753,1.27
+Battery drains while travelling,"High capacity (4,000 mAh+)",0.151,0.571,1.27
+Phone died before end of workday + No charger or outlet available,"High capacity (4,000 mAh+)",0.069,0.559,1.24
+No charger or outlet available + Battery drains while travelling,Fast charging,0.042,0.555,1.23
+Phone died while navigating,Drop protection,0.101,0.527,1.21
+No charger or outlet available,"High capacity (4,000 mAh+)",0.163,0.533,1.18
+No charger or outlet available,Fast charging,0.16,0.522,1.16
+Phone died before end of workday + No charger or outlet available,Fast charging,0.064,0.52,1.15
+Phone died before end of workday + No charger or outlet available,Wireless / MagSafe pass-through,0.056,0.452,1.13
+Battery drains while travelling,Wireless / MagSafe pass-through,0.119,0.45,1.13
+Phone died while navigating + Phone died before end of workday,Slim design,0.055,0.658,1.11
+Missed important call or OTP,"High capacity (4,000 mAh+)",0.058,0.5,1.11
+Phone died while navigating + Phone died before end of workday,"High capacity (4,000 mAh+)",0.042,0.5,1.11
+Phone died before end of workday + Battery drains while travelling,Fast charging,0.049,0.5,1.11
+No charger or outlet available + Battery drains while travelling,Slim design,0.05,0.655,1.1

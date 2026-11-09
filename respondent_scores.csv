@@ -1,0 +1,1441 @@
+respondent_id,intent,p_yes,p_maybe,p_no,cluster,cluster_name,wtp_final
+R0001,No,0.013,0.176,0.811,2,Low propensity: lower income,40.0
+R0002,Yes,0.254,0.33,0.417,1,Medium propensity: higher income,360.0
+R0003,Maybe,0.243,0.442,0.315,2,Low propensity: lower income,185.0
+R0004,Maybe,0.176,0.476,0.348,1,Medium propensity: higher income,210.0
+R0005,Yes,0.585,0.322,0.092,0,High propensity: high battery anxiety,170.0
+R0006,No,0.054,0.113,0.833,1,Medium propensity: higher income,440.0
+R0007,No,0.043,0.092,0.865,2,Low propensity: lower income,140.0
+R0008,No,0.044,0.265,0.691,2,Low propensity: lower income,160.0
+R0009,Maybe,0.18,0.234,0.586,1,Medium propensity: higher income,235.0
+R0010,No,0.255,0.337,0.408,1,Medium propensity: higher income,245.0
+R0011,No,0.074,0.14,0.785,1,Medium propensity: higher income,160.0
+R0012,No,0.056,0.37,0.574,1,Medium propensity: higher income,370.0
+R0013,No,0.08,0.256,0.664,1,Medium propensity: higher income,200.0
+R0014,No,0.044,0.104,0.852,2,Low propensity: lower income,110.0
+R0015,Maybe,0.405,0.34,0.256,0,High propensity: high battery anxiety,205.0
+R0016,Yes,0.515,0.363,0.122,0,High propensity: high battery anxiety,410.0
+R0017,No,0.095,0.276,0.628,1,Medium propensity: higher income,220.0
+R0018,Maybe,0.372,0.416,0.212,1,Medium propensity: higher income,170.0
+R0019,No,0.187,0.296,0.516,2,Low propensity: lower income,205.0
+R0020,Maybe,0.083,0.316,0.602,2,Low propensity: lower income,205.0
+R0021,Maybe,0.249,0.31,0.44,1,Medium propensity: higher income,295.0
+R0022,No,0.046,0.168,0.786,2,Low propensity: lower income,130.0
+R0025,No,0.108,0.329,0.563,1,Medium propensity: higher income,205.0
+R0026,No,0.067,0.261,0.672,2,Low propensity: lower income,250.0
+R0027,No,0.04,0.145,0.815,2,Low propensity: lower income,145.0
+R0028,Maybe,0.216,0.422,0.363,0,High propensity: high battery anxiety,150.0
+R0029,Yes,0.349,0.341,0.31,1,Medium propensity: higher income,315.0
+R0030,No,0.078,0.379,0.543,1,Medium propensity: higher income,365.0
+R0031,Maybe,0.116,0.31,0.574,2,Low propensity: lower income,99.033
+R0032,Maybe,0.311,0.465,0.224,0,High propensity: high battery anxiety,475.0
+R0033,No,0.083,0.187,0.73,1,Medium propensity: higher income,245.0
+R0034,No,0.414,0.315,0.271,0,High propensity: high battery anxiety,125.0
+R0035,Maybe,0.414,0.408,0.178,0,High propensity: high battery anxiety,145.0
+R0036,No,0.078,0.315,0.607,1,Medium propensity: higher income,160.0
+R0037,Maybe,0.375,0.418,0.208,0,High propensity: high battery anxiety,210.0
+R0038,No,0.153,0.327,0.52,1,Medium propensity: higher income,210.0
+R0039,No,0.098,0.259,0.643,0,High propensity: high battery anxiety,195.0
+R0040,No,0.196,0.396,0.408,2,Low propensity: lower income,255.0
+R0041,Yes,0.195,0.499,0.305,0,High propensity: high battery anxiety,165.0
+R0043,Maybe,0.193,0.389,0.418,1,Medium propensity: higher income,190.0
+R0044,No,0.052,0.235,0.713,2,Low propensity: lower income,200.0
+R0045,Maybe,0.224,0.319,0.457,0,High propensity: high battery anxiety,125.0
+R0046,No,0.034,0.069,0.897,1,Medium propensity: higher income,170.0
+R0047,No,0.387,0.244,0.369,0,High propensity: high battery anxiety,146.924
+R0048,No,0.067,0.212,0.721,2,Low propensity: lower income,145.0
+R0049,No,0.027,0.054,0.919,2,Low propensity: lower income,130.0
+R0050,Maybe,0.328,0.399,0.273,0,High propensity: high battery anxiety,150.0
+R0051,Yes,0.275,0.5,0.224,0,High propensity: high battery anxiety,185.0
+R0052,No,0.071,0.206,0.724,1,Medium propensity: higher income,125.0
+R0053,No,0.077,0.286,0.638,1,Medium propensity: higher income,225.0
+R0054,No,0.023,0.129,0.848,1,Medium propensity: higher income,170.0
+R0055,No,0.094,0.342,0.564,1,Medium propensity: higher income,230.0
+R0056,Maybe,0.505,0.334,0.161,0,High propensity: high battery anxiety,265.0
+R0057,Maybe,0.349,0.338,0.313,0,High propensity: high battery anxiety,280.0
+R0058,No,0.044,0.283,0.673,1,Medium propensity: higher income,215.0
+R0059,No,0.025,0.186,0.79,2,Low propensity: lower income,116.054
+R0060,Maybe,0.235,0.413,0.352,1,Medium propensity: higher income,365.0
+R0061,Maybe,0.047,0.248,0.705,1,Medium propensity: higher income,175.0
+R0062,No,0.077,0.311,0.612,2,Low propensity: lower income,165.0
+R0063,No,0.054,0.175,0.77,2,Low propensity: lower income,180.0
+R0064,No,0.217,0.352,0.432,2,Low propensity: lower income,155.0
+R0065,No,0.169,0.294,0.537,1,Medium propensity: higher income,235.0
+R0066,No,0.098,0.147,0.755,1,Medium propensity: higher income,270.0
+R0067,No,0.027,0.206,0.767,2,Low propensity: lower income,95.0
+R0068,Maybe,0.434,0.348,0.217,0,High propensity: high battery anxiety,160.0
+R0069,No,0.049,0.198,0.753,1,Medium propensity: higher income,275.0
+R0070,No,0.044,0.222,0.735,1,Medium propensity: higher income,135.0
+R0071,No,0.031,0.075,0.894,2,Low propensity: lower income,140.0
+R0074,No,0.081,0.223,0.696,1,Medium propensity: higher income,315.0
+R0075,No,0.091,0.201,0.708,1,Medium propensity: higher income,280.0
+R0076,No,0.107,0.273,0.62,1,Medium propensity: higher income,225.0
+R0077,No,0.027,0.168,0.805,2,Low propensity: lower income,125.0
+R0078,No,0.158,0.301,0.541,1,Medium propensity: higher income,175.0
+R0079,No,0.026,0.072,0.901,2,Low propensity: lower income,95.0
+R0080,No,0.046,0.151,0.803,2,Low propensity: lower income,150.0
+R0081,Maybe,0.242,0.504,0.253,0,High propensity: high battery anxiety,185.0
+R0082,No,0.219,0.336,0.446,0,High propensity: high battery anxiety,210.0
+R0083,Yes,0.252,0.385,0.363,0,High propensity: high battery anxiety,165.0
+R0084,No,0.032,0.138,0.83,2,Low propensity: lower income,105.0
+R0085,No,0.06,0.185,0.755,2,Low propensity: lower income,95.0
+R0086,Yes,0.317,0.392,0.291,1,Medium propensity: higher income,180.0
+R0087,No,0.031,0.104,0.865,2,Low propensity: lower income,165.0
+R0088,No,0.078,0.168,0.754,1,Medium propensity: higher income,280.0
+R0089,No,0.075,0.19,0.735,1,Medium propensity: higher income,150.0
+R0090,No,0.148,0.175,0.677,1,Medium propensity: higher income,125.0
+R0091,No,0.084,0.214,0.702,1,Medium propensity: higher income,220.0
+R0092,No,0.049,0.233,0.718,2,Low propensity: lower income,65.0
+R0093,No,0.186,0.32,0.494,2,Low propensity: lower income,190.0
+R0094,No,0.037,0.179,0.784,1,Medium propensity: higher income,235.0
+R0095,No,0.182,0.299,0.519,1,Medium propensity: higher income,215.0
+R0096,Maybe,0.528,0.323,0.149,0,High propensity: high battery anxiety,310.0
+R0097,Yes,0.391,0.415,0.195,0,High propensity: high battery anxiety,230.0
+R0098,No,0.078,0.231,0.691,2,Low propensity: lower income,195.0
+R0099,Yes,0.555,0.256,0.189,0,High propensity: high battery anxiety,145.0
+R0100,Maybe,0.314,0.458,0.228,0,High propensity: high battery anxiety,165.0
+R0101,No,0.232,0.386,0.382,1,Medium propensity: higher income,215.0
+R0102,No,0.014,0.128,0.858,2,Low propensity: lower income,145.0
+R0103,No,0.238,0.378,0.384,0,High propensity: high battery anxiety,221.076
+R0104,Maybe,0.458,0.331,0.211,0,High propensity: high battery anxiety,110.0
+R0105,No,0.177,0.324,0.499,2,Low propensity: lower income,235.0
+R0106,No,0.102,0.351,0.547,2,Low propensity: lower income,90.0
+R0107,No,0.147,0.341,0.512,1,Medium propensity: higher income,225.0
+R0108,No,0.132,0.285,0.584,2,Low propensity: lower income,200.0
+R0109,No,0.139,0.197,0.664,1,Medium propensity: higher income,195.0
+R0110,Yes,0.195,0.553,0.252,0,High propensity: high battery anxiety,305.0
+R0111,Maybe,0.124,0.503,0.373,2,Low propensity: lower income,200.0
+R0113,No,0.032,0.107,0.861,2,Low propensity: lower income,220.0
+R0114,Maybe,0.119,0.353,0.528,0,High propensity: high battery anxiety,156.342
+R0115,Yes,0.529,0.314,0.157,0,High propensity: high battery anxiety,135.0
+R0116,Maybe,0.272,0.426,0.303,0,High propensity: high battery anxiety,220.0
+R0117,No,0.137,0.314,0.549,0,High propensity: high battery anxiety,105.0
+R0118,No,0.123,0.299,0.578,1,Medium propensity: higher income,175.0
+R0119,Maybe,0.124,0.33,0.546,0,High propensity: high battery anxiety,95.0
+R0120,Yes,0.419,0.361,0.22,0,High propensity: high battery anxiety,250.0
+R0121,Maybe,0.34,0.396,0.264,0,High propensity: high battery anxiety,170.0
+R0122,No,0.097,0.301,0.602,1,Medium propensity: higher income,290.0
+R0123,No,0.593,0.32,0.087,0,High propensity: high battery anxiety,305.0
+R0124,Yes,0.286,0.392,0.322,1,Medium propensity: higher income,296.844
+R0125,No,0.092,0.237,0.671,1,Medium propensity: higher income,265.0
+R0126,Maybe,0.181,0.373,0.446,2,Low propensity: lower income,140.0
+R0127,No,0.148,0.348,0.504,2,Low propensity: lower income,125.0
+R0128,Yes,0.15,0.32,0.531,2,Low propensity: lower income,170.0
+R0129,No,0.326,0.387,0.287,0,High propensity: high battery anxiety,170.0
+R0130,No,0.102,0.263,0.635,2,Low propensity: lower income,125.0
+R0131,Yes,0.17,0.489,0.341,0,High propensity: high battery anxiety,205.0
+R0132,No,0.157,0.319,0.524,1,Medium propensity: higher income,220.0
+R0133,No,0.15,0.33,0.52,0,High propensity: high battery anxiety,105.0
+R0134,No,0.208,0.401,0.391,0,High propensity: high battery anxiety,180.0
+R0135,No,0.038,0.302,0.661,2,Low propensity: lower income,85.0
+R0136,No,0.074,0.126,0.799,1,Medium propensity: higher income,200.0
+R0137,No,0.023,0.062,0.915,2,Low propensity: lower income,150.0
+R0138,Maybe,0.307,0.462,0.231,1,Medium propensity: higher income,185.0
+R0139,No,0.116,0.409,0.474,1,Medium propensity: higher income,205.0
+R0140,Maybe,0.021,0.049,0.93,2,Low propensity: lower income,115.0
+R0141,Maybe,0.199,0.274,0.527,0,High propensity: high battery anxiety,260.0
+R0142,No,0.113,0.325,0.562,1,Medium propensity: higher income,175.0
+R0143,No,0.06,0.27,0.671,2,Low propensity: lower income,130.0
+R0144,No,0.152,0.278,0.57,0,High propensity: high battery anxiety,100.0
+R0145,No,0.065,0.174,0.761,2,Low propensity: lower income,80.0
+R0146,No,0.012,0.151,0.837,2,Low propensity: lower income,200.0
+R0147,Maybe,0.099,0.291,0.609,2,Low propensity: lower income,125.0
+R0148,Maybe,0.277,0.444,0.279,0,High propensity: high battery anxiety,190.0
+R0149,No,0.172,0.31,0.518,2,Low propensity: lower income,195.0
+R0150,No,0.207,0.345,0.448,0,High propensity: high battery anxiety,195.0
+R0151,No,0.063,0.218,0.718,2,Low propensity: lower income,185.0
+R0152,No,0.129,0.192,0.679,1,Medium propensity: higher income,140.0
+R0153,Maybe,0.386,0.402,0.212,1,Medium propensity: higher income,285.0
+R0154,No,0.26,0.388,0.352,0,High propensity: high battery anxiety,110.0
+R0156,No,0.025,0.066,0.91,2,Low propensity: lower income,90.0
+R0157,Maybe,0.308,0.452,0.24,1,Medium propensity: higher income,450.0
+R0158,No,0.196,0.26,0.544,0,High propensity: high battery anxiety,195.0
+R0160,No,0.092,0.311,0.597,1,Medium propensity: higher income,125.0
+R0161,No,0.116,0.344,0.539,1,Medium propensity: higher income,250.0
+R0162,No,0.089,0.346,0.565,1,Medium propensity: higher income,135.0
+R0163,Maybe,0.158,0.219,0.623,1,Medium propensity: higher income,110.0
+R0164,No,0.048,0.151,0.801,2,Low propensity: lower income,115.0
+R0165,Yes,0.306,0.436,0.258,1,Medium propensity: higher income,185.0
+R0166,No,0.258,0.338,0.405,0,High propensity: high battery anxiety,125.0
+R0167,No,0.191,0.321,0.488,2,Low propensity: lower income,235.0
+R0168,No,0.122,0.362,0.516,2,Low propensity: lower income,120.0
+R0169,Maybe,0.161,0.367,0.473,2,Low propensity: lower income,185.0
+R0170,No,0.113,0.194,0.693,1,Medium propensity: higher income,165.0
+R0172,Yes,0.379,0.406,0.215,0,High propensity: high battery anxiety,230.0
+R0173,Maybe,0.346,0.413,0.241,0,High propensity: high battery anxiety,230.0
+R0174,No,0.129,0.254,0.616,2,Low propensity: lower income,125.0
+R0175,No,0.106,0.196,0.698,2,Low propensity: lower income,130.0
+R0176,No,0.057,0.154,0.789,2,Low propensity: lower income,80.0
+R0177,No,0.029,0.167,0.805,1,Medium propensity: higher income,100.0
+R0178,No,0.059,0.258,0.682,2,Low propensity: lower income,180.0
+R0179,No,0.313,0.379,0.309,0,High propensity: high battery anxiety,205.0
+R0180,Yes,0.227,0.493,0.279,1,Medium propensity: higher income,350.0
+R0181,No,0.211,0.454,0.335,1,Medium propensity: higher income,260.0
+R0182,Yes,0.215,0.456,0.328,0,High propensity: high battery anxiety,430.0
+R0183,No,0.11,0.307,0.583,2,Low propensity: lower income,205.0
+R0184,No,0.076,0.166,0.757,2,Low propensity: lower income,130.0
+R0185,No,0.128,0.329,0.543,2,Low propensity: lower income,160.0
+R0186,Yes,0.061,0.271,0.668,2,Low propensity: lower income,220.0
+R0187,Maybe,0.239,0.328,0.433,1,Medium propensity: higher income,235.0
+R0188,No,0.076,0.151,0.773,2,Low propensity: lower income,95.0
+R0189,Yes,0.266,0.386,0.348,1,Medium propensity: higher income,355.0
+R0190,No,0.161,0.386,0.453,1,Medium propensity: higher income,335.0
+R0191,No,0.012,0.082,0.905,2,Low propensity: lower income,120.0
+R0192,No,0.169,0.398,0.434,1,Medium propensity: higher income,170.0
+R0193,Maybe,0.217,0.345,0.438,1,Medium propensity: higher income,250.0
+R0195,Yes,0.176,0.25,0.574,0,High propensity: high battery anxiety,180.0
+R0196,No,0.107,0.272,0.621,2,Low propensity: lower income,220.0
+R0197,No,0.094,0.464,0.442,1,Medium propensity: higher income,230.0
+R0198,Yes,0.271,0.345,0.384,0,High propensity: high battery anxiety,125.0
+R0199,No,0.045,0.153,0.802,2,Low propensity: lower income,140.0
+R0200,No,0.16,0.344,0.496,1,Medium propensity: higher income,325.0
+R0201,No,0.107,0.274,0.619,1,Medium propensity: higher income,280.0
+R0202,No,0.039,0.087,0.874,2,Low propensity: lower income,155.0
+R0204,No,0.043,0.17,0.787,2,Low propensity: lower income,155.0
+R0205,No,0.099,0.273,0.629,2,Low propensity: lower income,130.0
+R0206,Maybe,0.201,0.387,0.412,1,Medium propensity: higher income,225.0
+R0207,No,0.046,0.253,0.701,2,Low propensity: lower income,130.0
+R0208,No,0.025,0.164,0.811,2,Low propensity: lower income,130.0
+R0209,No,0.032,0.205,0.763,2,Low propensity: lower income,135.0
+R0210,No,0.104,0.265,0.631,1,Medium propensity: higher income,455.0
+R0211,No,0.046,0.176,0.778,2,Low propensity: lower income,95.0
+R0212,No,0.101,0.151,0.749,1,Medium propensity: higher income,115.0
+R0213,Yes,0.592,0.319,0.089,0,High propensity: high battery anxiety,455.0
+R0214,No,0.439,0.305,0.255,1,Medium propensity: higher income,325.0
+R0215,No,0.173,0.318,0.509,2,Low propensity: lower income,135.0
+R0216,No,0.055,0.176,0.77,1,Medium propensity: higher income,215.0
+R0217,No,0.073,0.274,0.653,1,Medium propensity: higher income,135.0
+R0218,No,0.149,0.228,0.624,2,Low propensity: lower income,105.0
+R0219,No,0.234,0.304,0.462,1,Medium propensity: higher income,390.0
+R0220,No,0.052,0.157,0.791,2,Low propensity: lower income,55.0
+R0221,No,0.282,0.377,0.341,0,High propensity: high battery anxiety,140.0
+R0222,No,0.092,0.445,0.463,1,Medium propensity: higher income,185.0
+R0223,No,0.083,0.238,0.679,2,Low propensity: lower income,130.0
+R0224,Maybe,0.279,0.363,0.358,0,High propensity: high battery anxiety,170.0
+R0225,No,0.056,0.117,0.827,1,Medium propensity: higher income,195.0
+R0226,No,0.088,0.151,0.761,1,Medium propensity: higher income,225.0
+R0227,No,0.077,0.139,0.784,2,Low propensity: lower income,195.0
+R0228,Maybe,0.458,0.308,0.234,0,High propensity: high battery anxiety,160.0
+R0229,No,0.163,0.515,0.321,1,Medium propensity: higher income,350.0
+R0230,No,0.016,0.071,0.913,2,Low propensity: lower income,115.0
+R0231,No,0.021,0.098,0.882,2,Low propensity: lower income,130.0
+R0232,No,0.116,0.426,0.458,2,Low propensity: lower income,190.0
+R0233,Yes,0.293,0.484,0.223,0,High propensity: high battery anxiety,210.0
+R0235,No,0.042,0.092,0.867,2,Low propensity: lower income,100.0
+R0236,No,0.103,0.151,0.747,1,Medium propensity: higher income,155.0
+R0237,No,0.029,0.103,0.868,1,Medium propensity: higher income,195.0
+R0238,No,0.04,0.158,0.802,1,Medium propensity: higher income,145.0
+R0239,Maybe,0.327,0.503,0.17,0,High propensity: high battery anxiety,310.0
+R0240,Maybe,0.374,0.421,0.205,0,High propensity: high battery anxiety,370.0
+R0241,No,0.057,0.204,0.739,1,Medium propensity: higher income,135.0
+R0242,Maybe,0.284,0.214,0.502,0,High propensity: high battery anxiety,140.0
+R0243,No,0.041,0.137,0.822,2,Low propensity: lower income,95.0
+R0244,Yes,0.357,0.35,0.293,0,High propensity: high battery anxiety,155.0
+R0245,No,0.009,0.032,0.96,2,Low propensity: lower income,145.0
+R0246,Maybe,0.033,0.104,0.864,2,Low propensity: lower income,75.0
+R0247,No,0.112,0.341,0.547,1,Medium propensity: higher income,130.0
+R0248,No,0.042,0.124,0.835,2,Low propensity: lower income,70.0
+R0249,No,0.038,0.137,0.826,2,Low propensity: lower income,110.0
+R0250,No,0.026,0.195,0.778,2,Low propensity: lower income,105.0
+R0252,No,0.023,0.127,0.85,2,Low propensity: lower income,125.0
+R0253,No,0.077,0.255,0.668,2,Low propensity: lower income,110.0
+R0254,Maybe,0.367,0.338,0.295,0,High propensity: high battery anxiety,245.0
+R0255,Yes,0.33,0.464,0.205,0,High propensity: high battery anxiety,340.0
+R0256,Maybe,0.17,0.522,0.308,1,Medium propensity: higher income,215.0
+R0257,No,0.277,0.378,0.346,0,High propensity: high battery anxiety,255.0
+R0258,No,0.083,0.156,0.761,1,Medium propensity: higher income,155.0
+R0259,No,0.078,0.258,0.664,2,Low propensity: lower income,160.0
+R0261,No,0.06,0.271,0.668,1,Medium propensity: higher income,220.241
+R0262,Maybe,0.441,0.373,0.186,0,High propensity: high battery anxiety,180.0
+R0263,No,0.225,0.307,0.468,1,Medium propensity: higher income,250.0
+R0264,Maybe,0.21,0.365,0.426,0,High propensity: high battery anxiety,120.0
+R0265,No,0.044,0.113,0.842,2,Low propensity: lower income,100.0
+R0266,No,0.053,0.256,0.691,2,Low propensity: lower income,115.0
+R0267,No,0.038,0.197,0.765,1,Medium propensity: higher income,185.0
+R0268,No,0.042,0.148,0.81,2,Low propensity: lower income,215.0
+R0269,No,0.112,0.2,0.688,1,Medium propensity: higher income,120.0
+R0270,Maybe,0.125,0.42,0.454,1,Medium propensity: higher income,195.0
+R0271,No,0.033,0.118,0.849,2,Low propensity: lower income,95.0
+R0272,Maybe,0.142,0.423,0.436,1,Medium propensity: higher income,335.0
+R0273,No,0.113,0.289,0.598,2,Low propensity: lower income,100.0
+R0274,Yes,0.172,0.408,0.42,0,High propensity: high battery anxiety,185.0
+R0275,Yes,0.332,0.489,0.178,0,High propensity: high battery anxiety,255.0
+R0276,Maybe,0.184,0.345,0.471,1,Medium propensity: higher income,325.0
+R0277,No,0.005,0.104,0.891,2,Low propensity: lower income,135.0
+R0278,No,0.015,0.13,0.855,2,Low propensity: lower income,75.0
+R0279,No,0.164,0.328,0.508,1,Medium propensity: higher income,130.0
+R0281,No,0.084,0.296,0.62,2,Low propensity: lower income,110.676
+R0282,No,0.214,0.282,0.504,2,Low propensity: lower income,75.0
+R0283,No,0.09,0.28,0.631,0,High propensity: high battery anxiety,125.0
+R0284,No,0.318,0.356,0.326,0,High propensity: high battery anxiety,135.0
+R0285,No,0.032,0.115,0.853,2,Low propensity: lower income,190.0
+R0286,Maybe,0.415,0.381,0.204,0,High propensity: high battery anxiety,500.0
+R0287,No,0.009,0.078,0.912,2,Low propensity: lower income,135.014
+R0289,No,0.076,0.205,0.719,1,Medium propensity: higher income,145.0
+R0290,Yes,0.394,0.391,0.215,0,High propensity: high battery anxiety,295.0
+R0291,No,0.015,0.115,0.87,2,Low propensity: lower income,75.0
+R0292,No,0.115,0.262,0.623,1,Medium propensity: higher income,240.0
+R0293,No,0.074,0.148,0.778,1,Medium propensity: higher income,230.0
+R0294,Maybe,0.221,0.357,0.422,0,High propensity: high battery anxiety,280.0
+R0295,Yes,0.144,0.483,0.373,1,Medium propensity: higher income,265.0
+R0296,No,0.088,0.321,0.591,2,Low propensity: lower income,140.0
+R0297,No,0.075,0.237,0.688,2,Low propensity: lower income,110.0
+R0298,No,0.068,0.251,0.681,2,Low propensity: lower income,80.0
+R0299,No,0.109,0.22,0.671,2,Low propensity: lower income,105.0
+R0300,No,0.06,0.115,0.825,1,Medium propensity: higher income,145.0
+R0301,Maybe,0.196,0.449,0.355,1,Medium propensity: higher income,395.0
+R0302,No,0.051,0.181,0.768,1,Medium propensity: higher income,180.0
+R0303,No,0.314,0.263,0.423,0,High propensity: high battery anxiety,120.0
+R0304,No,0.094,0.172,0.734,1,Medium propensity: higher income,150.0
+R0305,Maybe,0.334,0.322,0.344,0,High propensity: high battery anxiety,190.0
+R0306,No,0.086,0.209,0.705,2,Low propensity: lower income,130.0
+R0307,No,0.107,0.424,0.469,1,Medium propensity: higher income,235.0
+R0308,No,0.155,0.434,0.411,0,High propensity: high battery anxiety,140.0
+R0309,No,0.039,0.237,0.725,2,Low propensity: lower income,145.0
+R0310,No,0.085,0.275,0.64,2,Low propensity: lower income,155.794
+R0311,No,0.051,0.3,0.649,2,Low propensity: lower income,125.0
+R0312,No,0.189,0.33,0.48,0,High propensity: high battery anxiety,325.0
+R0314,Yes,0.454,0.364,0.182,0,High propensity: high battery anxiety,160.0
+R0315,Maybe,0.281,0.431,0.289,1,Medium propensity: higher income,365.0
+R0317,Yes,0.424,0.331,0.245,0,High propensity: high battery anxiety,255.0
+R0318,No,0.138,0.263,0.598,2,Low propensity: lower income,95.0
+R0319,No,0.098,0.276,0.625,2,Low propensity: lower income,110.0
+R0320,No,0.039,0.105,0.856,2,Low propensity: lower income,160.0
+R0321,No,0.165,0.494,0.341,0,High propensity: high battery anxiety,280.0
+R0322,Maybe,0.235,0.511,0.254,1,Medium propensity: higher income,430.0
+R0323,No,0.258,0.326,0.416,0,High propensity: high battery anxiety,199.173
+R0324,No,0.15,0.278,0.572,1,Medium propensity: higher income,215.0
+R0325,No,0.157,0.381,0.462,1,Medium propensity: higher income,355.0
+R0326,Yes,0.213,0.314,0.473,1,Medium propensity: higher income,191.293
+R0327,Yes,0.161,0.364,0.475,2,Low propensity: lower income,160.0
+R0328,No,0.111,0.264,0.625,2,Low propensity: lower income,125.0
+R0329,No,0.117,0.354,0.53,1,Medium propensity: higher income,230.0
+R0330,No,0.113,0.292,0.595,2,Low propensity: lower income,115.0
+R0331,No,0.387,0.292,0.321,0,High propensity: high battery anxiety,195.0
+R0332,No,0.087,0.465,0.448,2,Low propensity: lower income,210.0
+R0333,No,0.204,0.277,0.519,0,High propensity: high battery anxiety,135.0
+R0334,Maybe,0.205,0.391,0.404,1,Medium propensity: higher income,195.0
+R0335,No,0.319,0.431,0.25,1,Medium propensity: higher income,205.0
+R0336,No,0.011,0.104,0.885,2,Low propensity: lower income,115.0
+R0337,No,0.019,0.05,0.931,2,Low propensity: lower income,165.0
+R0338,Yes,0.429,0.369,0.202,0,High propensity: high battery anxiety,135.0
+R0339,No,0.086,0.149,0.764,2,Low propensity: lower income,130.0
+R0340,Maybe,0.121,0.275,0.604,2,Low propensity: lower income,160.0
+R0341,No,0.044,0.21,0.746,1,Medium propensity: higher income,170.0
+R0342,No,0.195,0.319,0.486,2,Low propensity: lower income,135.0
+R0343,No,0.037,0.116,0.847,2,Low propensity: lower income,80.0
+R0344,Yes,0.444,0.384,0.172,0,High propensity: high battery anxiety,345.0
+R0345,No,0.055,0.151,0.794,1,Medium propensity: higher income,100.0
+R0346,Yes,0.305,0.544,0.15,1,Medium propensity: higher income,340.0
+R0347,No,0.09,0.202,0.707,1,Medium propensity: higher income,190.0
+R0348,Maybe,0.262,0.343,0.394,2,Low propensity: lower income,145.0
+R0349,No,0.09,0.28,0.631,2,Low propensity: lower income,190.0
+R0351,No,0.097,0.16,0.743,2,Low propensity: lower income,115.0
+R0352,No,0.085,0.184,0.731,1,Medium propensity: higher income,350.0
+R0353,Maybe,0.114,0.351,0.536,2,Low propensity: lower income,100.0
+R0354,No,0.274,0.311,0.416,2,Low propensity: lower income,210.0
+R0355,No,0.025,0.194,0.781,2,Low propensity: lower income,115.0
+R0356,No,0.101,0.219,0.679,2,Low propensity: lower income,165.0
+R0357,Maybe,0.371,0.307,0.321,0,High propensity: high battery anxiety,285.0
+R0359,Yes,0.419,0.386,0.194,0,High propensity: high battery anxiety,180.0
+R0360,No,0.079,0.156,0.766,2,Low propensity: lower income,175.0
+R0361,No,0.031,0.07,0.898,2,Low propensity: lower income,125.0
+R0362,Yes,0.225,0.437,0.338,0,High propensity: high battery anxiety,135.0
+R0363,Yes,0.169,0.41,0.421,1,Medium propensity: higher income,235.0
+R0364,No,0.304,0.378,0.319,0,High propensity: high battery anxiety,210.0
+R0365,No,0.049,0.168,0.783,1,Medium propensity: higher income,170.0
+R0366,No,0.029,0.149,0.822,1,Medium propensity: higher income,220.0
+R0367,No,0.184,0.322,0.495,1,Medium propensity: higher income,206.899
+R0368,No,0.03,0.188,0.782,2,Low propensity: lower income,75.0
+R0369,No,0.12,0.271,0.609,2,Low propensity: lower income,140.0
+R0370,No,0.128,0.331,0.541,2,Low propensity: lower income,105.0
+R0372,No,0.26,0.278,0.462,0,High propensity: high battery anxiety,100.0
+R0373,No,0.112,0.282,0.606,1,Medium propensity: higher income,180.0
+R0374,No,0.057,0.262,0.681,1,Medium propensity: higher income,140.0
+R0375,Maybe,0.138,0.308,0.554,0,High propensity: high battery anxiety,200.0
+R0376,No,0.031,0.218,0.75,2,Low propensity: lower income,120.0
+R0377,Maybe,0.133,0.44,0.427,1,Medium propensity: higher income,400.0
+R0378,No,0.119,0.216,0.665,1,Medium propensity: higher income,184.955
+R0379,No,0.047,0.181,0.772,2,Low propensity: lower income,120.0
+R0380,No,0.174,0.351,0.476,1,Medium propensity: higher income,310.0
+R0381,No,0.087,0.219,0.694,2,Low propensity: lower income,85.0
+R0382,Maybe,0.241,0.402,0.358,0,High propensity: high battery anxiety,230.0
+R0383,Yes,0.244,0.448,0.308,1,Medium propensity: higher income,350.0
+R0384,No,0.015,0.131,0.855,2,Low propensity: lower income,95.0
+R0385,Maybe,0.146,0.414,0.44,1,Medium propensity: higher income,250.0
+R0386,No,0.194,0.305,0.5,1,Medium propensity: higher income,220.0
+R0387,Maybe,0.218,0.457,0.325,1,Medium propensity: higher income,285.0
+R0388,Maybe,0.054,0.257,0.689,1,Medium propensity: higher income,205.0
+R0389,No,0.098,0.297,0.605,2,Low propensity: lower income,185.0
+R0390,Maybe,0.29,0.322,0.388,0,High propensity: high battery anxiety,205.0
+R0391,No,0.16,0.274,0.566,2,Low propensity: lower income,150.0
+R0392,Yes,0.694,0.213,0.093,0,High propensity: high battery anxiety,125.0
+R0393,Maybe,0.15,0.507,0.343,1,Medium propensity: higher income,230.0
+R0394,No,0.169,0.352,0.479,1,Medium propensity: higher income,330.0
+R0395,No,0.14,0.153,0.706,1,Medium propensity: higher income,500.0
+R0396,No,0.152,0.421,0.427,1,Medium propensity: higher income,415.0
+R0397,No,0.146,0.436,0.418,0,High propensity: high battery anxiety,140.0
+R0398,No,0.038,0.183,0.779,2,Low propensity: lower income,210.0
+R0399,No,0.14,0.285,0.575,1,Medium propensity: higher income,155.0
+R0400,Yes,0.212,0.489,0.299,0,High propensity: high battery anxiety,135.0
+R0401,No,0.025,0.098,0.876,2,Low propensity: lower income,110.0
+R0402,Maybe,0.102,0.206,0.691,2,Low propensity: lower income,135.0
+R0403,Maybe,0.468,0.389,0.142,0,High propensity: high battery anxiety,210.0
+R0404,No,0.166,0.266,0.568,2,Low propensity: lower income,195.0
+R0405,No,0.182,0.298,0.52,0,High propensity: high battery anxiety,140.0
+R0406,Maybe,0.214,0.541,0.245,1,Medium propensity: higher income,300.0
+R0407,No,0.024,0.078,0.899,2,Low propensity: lower income,130.0
+R0408,Maybe,0.34,0.369,0.291,0,High propensity: high battery anxiety,245.0
+R0409,No,0.266,0.327,0.407,0,High propensity: high battery anxiety,110.0
+R0410,No,0.134,0.336,0.53,1,Medium propensity: higher income,175.0
+R0411,No,0.021,0.123,0.856,2,Low propensity: lower income,75.0
+R0412,No,0.044,0.209,0.747,2,Low propensity: lower income,240.0
+R0413,Maybe,0.056,0.205,0.739,1,Medium propensity: higher income,225.0
+R0414,No,0.145,0.346,0.51,2,Low propensity: lower income,170.0
+R0415,No,0.153,0.397,0.45,2,Low propensity: lower income,300.0
+R0416,No,0.09,0.355,0.555,0,High propensity: high battery anxiety,150.0
+R0417,No,0.072,0.11,0.818,1,Medium propensity: higher income,170.0
+R0418,No,0.049,0.226,0.725,1,Medium propensity: higher income,355.0
+R0419,No,0.148,0.356,0.496,0,High propensity: high battery anxiety,110.0
+R0420,No,0.131,0.236,0.633,1,Medium propensity: higher income,160.0
+R0421,No,0.046,0.172,0.782,2,Low propensity: lower income,95.0
+R0422,No,0.069,0.255,0.676,2,Low propensity: lower income,200.0
+R0423,Yes,0.502,0.349,0.15,0,High propensity: high battery anxiety,300.0
+R0424,No,0.105,0.245,0.65,1,Medium propensity: higher income,100.0
+R0425,No,0.028,0.089,0.883,2,Low propensity: lower income,140.0
+R0426,No,0.082,0.233,0.684,2,Low propensity: lower income,105.0
+R0427,No,0.084,0.234,0.682,2,Low propensity: lower income,155.0
+R0428,No,0.073,0.215,0.712,2,Low propensity: lower income,75.0
+R0429,No,0.035,0.051,0.913,2,Low propensity: lower income,105.0
+R0431,Maybe,0.102,0.263,0.635,1,Medium propensity: higher income,310.0
+R0432,Maybe,0.141,0.319,0.54,0,High propensity: high battery anxiety,140.0
+R0433,Maybe,0.309,0.426,0.265,0,High propensity: high battery anxiety,150.0
+R0434,No,0.042,0.158,0.8,1,Medium propensity: higher income,285.0
+R0435,Maybe,0.262,0.223,0.515,0,High propensity: high battery anxiety,120.0
+R0436,Yes,0.192,0.389,0.419,0,High propensity: high battery anxiety,190.0
+R0437,No,0.053,0.178,0.769,2,Low propensity: lower income,160.0
+R0438,No,0.135,0.273,0.592,0,High propensity: high battery anxiety,180.0
+R0439,No,0.121,0.343,0.536,1,Medium propensity: higher income,172.013
+R0440,Maybe,0.117,0.216,0.668,2,Low propensity: lower income,195.0
+R0441,No,0.217,0.53,0.253,1,Medium propensity: higher income,205.0
+R0442,No,0.267,0.399,0.334,0,High propensity: high battery anxiety,235.0
+R0443,No,0.081,0.265,0.654,1,Medium propensity: higher income,279.873
+R0444,No,0.06,0.153,0.787,1,Medium propensity: higher income,255.0
+R0445,Maybe,0.156,0.321,0.522,1,Medium propensity: higher income,350.0
+R0446,No,0.05,0.245,0.705,2,Low propensity: lower income,150.0
+R0447,No,0.22,0.279,0.501,1,Medium propensity: higher income,280.0
+R0448,No,0.043,0.116,0.841,2,Low propensity: lower income,90.0
+R0449,No,0.057,0.196,0.746,1,Medium propensity: higher income,125.0
+R0450,Yes,0.294,0.347,0.359,0,High propensity: high battery anxiety,160.0
+R0451,No,0.133,0.235,0.632,2,Low propensity: lower income,200.0
+R0452,No,0.064,0.182,0.754,2,Low propensity: lower income,190.0
+R0453,No,0.091,0.166,0.743,2,Low propensity: lower income,95.0
+R0454,No,0.029,0.144,0.826,2,Low propensity: lower income,240.0
+R0455,No,0.06,0.366,0.575,1,Medium propensity: higher income,210.0
+R0456,No,0.023,0.174,0.802,2,Low propensity: lower income,230.0
+R0457,No,0.101,0.348,0.551,1,Medium propensity: higher income,175.0
+R0458,Maybe,0.26,0.447,0.293,0,High propensity: high battery anxiety,165.0
+R0459,No,0.037,0.164,0.8,2,Low propensity: lower income,165.0
+R0460,No,0.031,0.111,0.858,2,Low propensity: lower income,110.0
+R0461,No,0.094,0.299,0.607,1,Medium propensity: higher income,245.0
+R0462,No,0.132,0.242,0.625,1,Medium propensity: higher income,325.0
+R0463,No,0.11,0.248,0.641,1,Medium propensity: higher income,320.0
+R0464,No,0.016,0.084,0.9,2,Low propensity: lower income,225.0
+R0465,Maybe,0.154,0.318,0.528,0,High propensity: high battery anxiety,110.0
+R0466,No,0.023,0.093,0.885,2,Low propensity: lower income,115.0
+R0467,Maybe,0.348,0.301,0.351,0,High propensity: high battery anxiety,285.0
+R0469,No,0.046,0.244,0.709,2,Low propensity: lower income,90.0
+R0470,No,0.016,0.129,0.855,2,Low propensity: lower income,160.0
+R0471,No,0.13,0.336,0.534,0,High propensity: high battery anxiety,240.0
+R0472,No,0.148,0.219,0.632,2,Low propensity: lower income,190.0
+R0474,No,0.099,0.269,0.632,1,Medium propensity: higher income,251.341
+R0475,Maybe,0.454,0.365,0.181,0,High propensity: high battery anxiety,280.0
+R0476,No,0.253,0.423,0.324,0,High propensity: high battery anxiety,225.0
+R0477,No,0.085,0.197,0.718,2,Low propensity: lower income,225.0
+R0478,Yes,0.06,0.174,0.766,1,Medium propensity: higher income,305.0
+R0480,Yes,0.206,0.445,0.349,0,High propensity: high battery anxiety,160.0
+R0481,No,0.042,0.239,0.719,2,Low propensity: lower income,75.0
+R0482,No,0.058,0.171,0.771,1,Medium propensity: higher income,225.0
+R0483,Maybe,0.117,0.327,0.556,2,Low propensity: lower income,165.0
+R0484,No,0.189,0.336,0.476,2,Low propensity: lower income,185.0
+R0485,No,0.104,0.421,0.475,2,Low propensity: lower income,110.0
+R0486,No,0.034,0.075,0.891,2,Low propensity: lower income,100.0
+R0487,No,0.174,0.357,0.47,2,Low propensity: lower income,85.0
+R0488,No,0.116,0.321,0.563,1,Medium propensity: higher income,275.0
+R0489,Maybe,0.262,0.336,0.402,1,Medium propensity: higher income,345.0
+R0490,No,0.026,0.203,0.771,2,Low propensity: lower income,150.0
+R0491,Yes,0.563,0.33,0.106,0,High propensity: high battery anxiety,200.0
+R0492,Maybe,0.255,0.373,0.372,1,Medium propensity: higher income,215.0
+R0493,No,0.286,0.25,0.465,1,Medium propensity: higher income,290.0
+R0494,No,0.094,0.245,0.661,1,Medium propensity: higher income,140.0
+R0495,No,0.16,0.224,0.616,1,Medium propensity: higher income,235.0
+R0496,No,0.043,0.242,0.715,1,Medium propensity: higher income,220.0
+R0497,No,0.075,0.261,0.664,1,Medium propensity: higher income,160.0
+R0498,Maybe,0.21,0.295,0.495,2,Low propensity: lower income,197.141
+R0499,No,0.147,0.315,0.538,0,High propensity: high battery anxiety,110.0
+R0500,No,0.04,0.212,0.748,2,Low propensity: lower income,130.0
+R0501,Yes,0.454,0.363,0.183,0,High propensity: high battery anxiety,220.0
+R0502,Maybe,0.125,0.479,0.395,1,Medium propensity: higher income,290.0
+R0503,No,0.028,0.157,0.815,2,Low propensity: lower income,145.0
+R0504,No,0.165,0.453,0.383,1,Medium propensity: higher income,210.0
+R0505,No,0.128,0.242,0.629,2,Low propensity: lower income,95.0
+R0506,No,0.156,0.297,0.546,0,High propensity: high battery anxiety,160.0
+R0507,No,0.065,0.176,0.76,1,Medium propensity: higher income,220.0
+R0508,No,0.04,0.18,0.78,2,Low propensity: lower income,115.0
+R0509,No,0.068,0.229,0.703,2,Low propensity: lower income,125.0
+R0510,No,0.125,0.327,0.548,1,Medium propensity: higher income,200.0
+R0511,No,0.127,0.164,0.709,1,Medium propensity: higher income,215.0
+R0513,No,0.141,0.347,0.513,2,Low propensity: lower income,80.0
+R0514,No,0.037,0.158,0.805,2,Low propensity: lower income,95.0
+R0515,No,0.08,0.189,0.731,1,Medium propensity: higher income,185.0
+R0516,No,0.146,0.25,0.603,0,High propensity: high battery anxiety,160.0
+R0517,No,0.039,0.146,0.815,1,Medium propensity: higher income,185.0
+R0518,No,0.038,0.079,0.882,2,Low propensity: lower income,105.0
+R0519,Yes,0.094,0.238,0.668,1,Medium propensity: higher income,225.0
+R0520,No,0.06,0.237,0.703,2,Low propensity: lower income,135.0
+R0521,Maybe,0.225,0.34,0.435,0,High propensity: high battery anxiety,150.0
+R0522,No,0.254,0.374,0.373,1,Medium propensity: higher income,292.025
+R0523,Maybe,0.136,0.435,0.429,2,Low propensity: lower income,160.0
+R0524,No,0.1,0.241,0.658,2,Low propensity: lower income,85.0
+R0525,Maybe,0.07,0.355,0.575,1,Medium propensity: higher income,500.0
+R0526,Maybe,0.102,0.389,0.51,1,Medium propensity: higher income,225.0
+R0527,No,0.063,0.081,0.856,1,Medium propensity: higher income,145.0
+R0528,No,0.042,0.109,0.849,2,Low propensity: lower income,180.0
+R0529,Yes,0.475,0.356,0.169,0,High propensity: high battery anxiety,220.0
+R0530,No,0.037,0.124,0.839,2,Low propensity: lower income,130.0
+R0531,No,0.076,0.324,0.6,1,Medium propensity: higher income,235.0
+R0532,No,0.306,0.325,0.369,0,High propensity: high battery anxiety,265.0
+R0534,No,0.151,0.32,0.529,1,Medium propensity: higher income,240.0
+R0535,Maybe,0.248,0.378,0.375,0,High propensity: high battery anxiety,155.0
+R0536,No,0.056,0.174,0.769,2,Low propensity: lower income,115.0
+R0537,No,0.049,0.254,0.697,1,Medium propensity: higher income,220.0
+R0538,No,0.075,0.32,0.605,2,Low propensity: lower income,180.793
+R0539,No,0.09,0.24,0.67,1,Medium propensity: higher income,170.0
+R0540,Maybe,0.234,0.459,0.307,1,Medium propensity: higher income,290.0
+R0541,No,0.09,0.37,0.54,1,Medium propensity: higher income,335.0
+R0542,Yes,0.226,0.433,0.34,1,Medium propensity: higher income,215.0
+R0543,No,0.061,0.27,0.669,1,Medium propensity: higher income,243.078
+R0544,No,0.075,0.212,0.713,2,Low propensity: lower income,135.0
+R0545,No,0.024,0.153,0.823,2,Low propensity: lower income,150.0
+R0546,Yes,0.423,0.422,0.155,0,High propensity: high battery anxiety,210.0
+R0547,No,0.109,0.213,0.677,2,Low propensity: lower income,175.0
+R0548,No,0.073,0.128,0.799,2,Low propensity: lower income,211.867
+R0549,Maybe,0.386,0.356,0.258,0,High propensity: high battery anxiety,160.0
+R0550,Maybe,0.111,0.475,0.415,1,Medium propensity: higher income,380.0
+R0551,Maybe,0.086,0.258,0.656,2,Low propensity: lower income,220.983
+R0552,No,0.008,0.091,0.901,2,Low propensity: lower income,120.0
+R0553,No,0.063,0.236,0.701,1,Medium propensity: higher income,210.0
+R0554,No,0.033,0.089,0.878,2,Low propensity: lower income,210.0
+R0555,Maybe,0.41,0.407,0.184,0,High propensity: high battery anxiety,190.0
+R0556,No,0.184,0.366,0.449,0,High propensity: high battery anxiety,215.0
+R0557,Maybe,0.487,0.369,0.144,0,High propensity: high battery anxiety,130.0
+R0558,No,0.054,0.179,0.767,2,Low propensity: lower income,115.0
+R0559,No,0.241,0.453,0.306,1,Medium propensity: higher income,280.0
+R0560,No,0.066,0.25,0.685,1,Medium propensity: higher income,225.0
+R0561,Yes,0.241,0.459,0.3,0,High propensity: high battery anxiety,245.0
+R0562,No,0.138,0.53,0.331,0,High propensity: high battery anxiety,180.0
+R0563,No,0.14,0.216,0.643,0,High propensity: high battery anxiety,160.0
+R0564,Maybe,0.234,0.433,0.333,0,High propensity: high battery anxiety,225.0
+R0566,No,0.074,0.24,0.686,1,Medium propensity: higher income,165.0
+R0567,No,0.245,0.269,0.485,0,High propensity: high battery anxiety,150.0
+R0568,No,0.058,0.099,0.843,1,Medium propensity: higher income,85.0
+R0569,No,0.159,0.27,0.572,1,Medium propensity: higher income,235.0
+R0570,No,0.067,0.154,0.778,2,Low propensity: lower income,80.0
+R0571,Maybe,0.408,0.417,0.175,0,High propensity: high battery anxiety,310.0
+R0572,Yes,0.353,0.234,0.413,0,High propensity: high battery anxiety,150.0
+R0573,No,0.028,0.161,0.811,1,Medium propensity: higher income,185.0
+R0574,Maybe,0.25,0.487,0.263,1,Medium propensity: higher income,210.0
+R0575,Maybe,0.123,0.338,0.539,2,Low propensity: lower income,207.66
+R0576,No,0.143,0.331,0.526,0,High propensity: high battery anxiety,140.0
+R0577,Yes,0.44,0.368,0.192,0,High propensity: high battery anxiety,255.0
+R0578,No,0.117,0.238,0.646,2,Low propensity: lower income,158.257
+R0579,No,0.069,0.37,0.561,1,Medium propensity: higher income,100.0
+R0580,No,0.235,0.454,0.311,1,Medium propensity: higher income,120.0
+R0581,No,0.096,0.279,0.625,2,Low propensity: lower income,175.0
+R0582,No,0.07,0.287,0.643,2,Low propensity: lower income,125.0
+R0583,No,0.165,0.34,0.495,0,High propensity: high battery anxiety,110.0
+R0584,No,0.058,0.302,0.64,2,Low propensity: lower income,205.0
+R0585,Maybe,0.315,0.428,0.257,1,Medium propensity: higher income,500.0
+R0586,Yes,0.671,0.24,0.089,0,High propensity: high battery anxiety,255.0
+R0587,Yes,0.213,0.455,0.332,0,High propensity: high battery anxiety,195.0
+R0588,No,0.026,0.056,0.918,2,Low propensity: lower income,120.0
+R0589,Maybe,0.14,0.329,0.531,1,Medium propensity: higher income,395.0
+R0590,Maybe,0.087,0.386,0.527,1,Medium propensity: higher income,325.0
+R0591,Maybe,0.505,0.309,0.186,0,High propensity: high battery anxiety,240.0
+R0592,No,0.065,0.086,0.849,1,Medium propensity: higher income,250.0
+R0593,No,0.043,0.143,0.814,1,Medium propensity: higher income,340.0
+R0594,No,0.077,0.229,0.695,2,Low propensity: lower income,70.0
+R0595,No,0.014,0.028,0.957,2,Low propensity: lower income,110.0
+R0596,Maybe,0.364,0.287,0.349,0,High propensity: high battery anxiety,95.0
+R0597,No,0.108,0.255,0.637,2,Low propensity: lower income,220.0
+R0598,No,0.068,0.107,0.825,2,Low propensity: lower income,115.0
+R0599,No,0.037,0.095,0.868,1,Medium propensity: higher income,105.0
+R0600,No,0.024,0.151,0.825,2,Low propensity: lower income,105.0
+R0601,Maybe,0.174,0.442,0.384,1,Medium propensity: higher income,155.0
+R0602,Yes,0.549,0.29,0.161,0,High propensity: high battery anxiety,195.0
+R0603,Yes,0.494,0.319,0.187,0,High propensity: high battery anxiety,190.0
+R0604,Maybe,0.317,0.433,0.249,0,High propensity: high battery anxiety,225.0
+R0606,No,0.073,0.151,0.777,1,Medium propensity: higher income,235.0
+R0607,No,0.124,0.232,0.644,1,Medium propensity: higher income,500.0
+R0608,No,0.059,0.121,0.82,2,Low propensity: lower income,125.0
+R0609,Maybe,0.128,0.456,0.416,1,Medium propensity: higher income,295.0
+R0610,Yes,0.298,0.411,0.291,1,Medium propensity: higher income,195.0
+R0611,No,0.068,0.099,0.832,2,Low propensity: lower income,140.0
+R0612,No,0.014,0.102,0.884,2,Low propensity: lower income,75.0
+R0613,No,0.152,0.115,0.733,1,Medium propensity: higher income,225.0
+R0614,No,0.087,0.138,0.775,2,Low propensity: lower income,110.0
+R0615,No,0.196,0.266,0.537,1,Medium propensity: higher income,335.0
+R0616,No,0.091,0.197,0.712,1,Medium propensity: higher income,216.301
+R0617,Yes,0.392,0.461,0.147,1,Medium propensity: higher income,275.0
+R0618,No,0.007,0.063,0.93,1,Medium propensity: higher income,200.538
+R0619,Maybe,0.085,0.24,0.675,2,Low propensity: lower income,145.0
+R0620,No,0.009,0.114,0.876,2,Low propensity: lower income,95.0
+R0621,No,0.095,0.358,0.548,2,Low propensity: lower income,178.183
+R0622,Maybe,0.247,0.345,0.408,1,Medium propensity: higher income,245.0
+R0623,Maybe,0.148,0.3,0.552,0,High propensity: high battery anxiety,155.0
+R0624,Maybe,0.348,0.371,0.281,0,High propensity: high battery anxiety,160.0
+R0625,Maybe,0.234,0.449,0.317,1,Medium propensity: higher income,445.0
+R0626,Yes,0.515,0.352,0.133,0,High propensity: high battery anxiety,385.0
+R0627,No,0.076,0.134,0.791,1,Medium propensity: higher income,170.0
+R0628,No,0.095,0.294,0.611,1,Medium propensity: higher income,240.0
+R0629,No,0.083,0.35,0.567,1,Medium propensity: higher income,250.0
+R0630,No,0.054,0.222,0.724,2,Low propensity: lower income,155.0
+R0631,No,0.167,0.286,0.547,0,High propensity: high battery anxiety,230.0
+R0632,No,0.048,0.175,0.777,1,Medium propensity: higher income,275.0
+R0633,Maybe,0.215,0.402,0.384,0,High propensity: high battery anxiety,170.0
+R0634,No,0.133,0.269,0.598,2,Low propensity: lower income,155.0
+R0635,Yes,0.277,0.439,0.283,0,High propensity: high battery anxiety,300.0
+R0636,No,0.094,0.22,0.686,1,Medium propensity: higher income,225.0
+R0638,No,0.058,0.089,0.853,2,Low propensity: lower income,180.0
+R0639,No,0.035,0.143,0.822,2,Low propensity: lower income,95.0
+R0640,No,0.052,0.296,0.651,1,Medium propensity: higher income,255.0
+R0642,Maybe,0.101,0.219,0.68,2,Low propensity: lower income,155.0
+R0643,Maybe,0.24,0.315,0.445,2,Low propensity: lower income,130.0
+R0644,Maybe,0.134,0.344,0.522,2,Low propensity: lower income,185.0
+R0645,Yes,0.31,0.355,0.335,0,High propensity: high battery anxiety,115.0
+R0646,No,0.129,0.169,0.703,1,Medium propensity: higher income,225.0
+R0647,Maybe,0.341,0.461,0.198,1,Medium propensity: higher income,350.0
+R0648,No,0.039,0.07,0.891,2,Low propensity: lower income,150.0
+R0649,Maybe,0.245,0.466,0.289,1,Medium propensity: higher income,410.0
+R0650,No,0.051,0.248,0.701,2,Low propensity: lower income,165.0
+R0651,No,0.091,0.401,0.508,1,Medium propensity: higher income,255.0
+R0652,No,0.065,0.23,0.705,1,Medium propensity: higher income,200.0
+R0653,No,0.433,0.356,0.211,0,High propensity: high battery anxiety,205.0
+R0654,Yes,0.507,0.32,0.173,0,High propensity: high battery anxiety,250.0
+R0655,Maybe,0.242,0.401,0.357,1,Medium propensity: higher income,390.263
+R0656,No,0.186,0.342,0.472,2,Low propensity: lower income,105.0
+R0657,No,0.028,0.137,0.835,1,Medium propensity: higher income,173.503
+R0658,No,0.314,0.362,0.325,1,Medium propensity: higher income,210.0
+R0659,Maybe,0.181,0.312,0.507,0,High propensity: high battery anxiety,190.0
+R0660,No,0.074,0.288,0.638,2,Low propensity: lower income,145.0
+R0661,Maybe,0.211,0.344,0.445,2,Low propensity: lower income,160.0
+R0662,Maybe,0.297,0.491,0.213,0,High propensity: high battery anxiety,320.0
+R0663,Maybe,0.136,0.316,0.549,2,Low propensity: lower income,150.0
+R0664,No,0.184,0.271,0.545,0,High propensity: high battery anxiety,100.0
+R0665,Yes,0.226,0.48,0.294,0,High propensity: high battery anxiety,235.0
+R0666,No,0.055,0.239,0.706,2,Low propensity: lower income,165.0
+R0667,No,0.091,0.326,0.584,1,Medium propensity: higher income,225.0
+R0668,Maybe,0.114,0.339,0.547,2,Low propensity: lower income,210.0
+R0669,No,0.04,0.158,0.802,2,Low propensity: lower income,140.0
+R0670,No,0.116,0.285,0.599,1,Medium propensity: higher income,185.0
+R0671,No,0.055,0.147,0.798,2,Low propensity: lower income,100.0
+R0673,Maybe,0.142,0.286,0.572,2,Low propensity: lower income,150.0
+R0674,Maybe,0.101,0.251,0.648,1,Medium propensity: higher income,245.0
+R0675,Maybe,0.264,0.333,0.403,1,Medium propensity: higher income,260.0
+R0676,No,0.023,0.051,0.926,2,Low propensity: lower income,85.0
+R0677,Maybe,0.515,0.328,0.157,0,High propensity: high battery anxiety,180.0
+R0678,No,0.204,0.375,0.421,1,Medium propensity: higher income,285.0
+R0679,Maybe,0.325,0.355,0.32,0,High propensity: high battery anxiety,140.0
+R0680,No,0.022,0.072,0.906,2,Low propensity: lower income,85.0
+R0681,Yes,0.263,0.51,0.227,1,Medium propensity: higher income,320.0
+R0682,Maybe,0.458,0.345,0.197,0,High propensity: high battery anxiety,180.0
+R0683,No,0.217,0.333,0.449,0,High propensity: high battery anxiety,110.0
+R0684,No,0.062,0.209,0.729,1,Medium propensity: higher income,130.0
+R0685,No,0.101,0.331,0.569,2,Low propensity: lower income,250.0
+R0686,Yes,0.451,0.385,0.163,0,High propensity: high battery anxiety,355.0
+R0687,No,0.061,0.207,0.731,1,Medium propensity: higher income,175.0
+R0688,No,0.111,0.278,0.61,1,Medium propensity: higher income,140.0
+R0689,Yes,0.36,0.378,0.262,0,High propensity: high battery anxiety,165.0
+R0690,No,0.208,0.229,0.563,1,Medium propensity: higher income,205.0
+R0691,Maybe,0.179,0.518,0.304,0,High propensity: high battery anxiety,260.0
+R0692,No,0.072,0.081,0.847,1,Medium propensity: higher income,155.0
+R0693,No,0.218,0.422,0.359,0,High propensity: high battery anxiety,150.0
+R0694,Maybe,0.169,0.33,0.501,1,Medium propensity: higher income,200.0
+R0695,No,0.04,0.101,0.858,2,Low propensity: lower income,140.0
+R0696,Yes,0.487,0.37,0.143,0,High propensity: high battery anxiety,430.0
+R0697,Maybe,0.381,0.347,0.272,0,High propensity: high battery anxiety,155.0
+R0699,No,0.034,0.167,0.799,1,Medium propensity: higher income,175.0
+R0700,No,0.128,0.309,0.563,1,Medium propensity: higher income,265.0
+R0701,No,0.16,0.397,0.443,2,Low propensity: lower income,135.0
+R0702,No,0.018,0.116,0.866,2,Low propensity: lower income,115.0
+R0703,No,0.188,0.238,0.574,2,Low propensity: lower income,135.0
+R0704,No,0.145,0.428,0.426,1,Medium propensity: higher income,305.0
+R0705,Maybe,0.165,0.305,0.53,0,High propensity: high battery anxiety,155.0
+R0706,No,0.205,0.506,0.29,1,Medium propensity: higher income,225.0
+R0707,Yes,0.399,0.361,0.241,1,Medium propensity: higher income,190.0
+R0708,Maybe,0.092,0.305,0.603,1,Medium propensity: higher income,205.0
+R0709,Yes,0.543,0.356,0.101,0,High propensity: high battery anxiety,194.179
+R0710,No,0.27,0.385,0.345,0,High propensity: high battery anxiety,165.0
+R0711,No,0.147,0.324,0.529,2,Low propensity: lower income,120.0
+R0712,No,0.067,0.246,0.688,2,Low propensity: lower income,115.0
+R0713,No,0.09,0.222,0.689,2,Low propensity: lower income,135.0
+R0715,No,0.041,0.35,0.609,2,Low propensity: lower income,155.0
+R0716,Maybe,0.225,0.396,0.379,0,High propensity: high battery anxiety,250.0
+R0717,Yes,0.346,0.433,0.22,0,High propensity: high battery anxiety,320.0
+R0718,No,0.017,0.1,0.883,2,Low propensity: lower income,150.0
+R0719,Maybe,0.281,0.353,0.366,0,High propensity: high battery anxiety,215.0
+R0720,No,0.057,0.171,0.772,2,Low propensity: lower income,115.0
+R0722,Maybe,0.356,0.421,0.223,0,High propensity: high battery anxiety,145.0
+R0723,Yes,0.063,0.32,0.617,1,Medium propensity: higher income,195.0
+R0724,Maybe,0.237,0.378,0.385,0,High propensity: high battery anxiety,95.0
+R0725,No,0.191,0.332,0.477,0,High propensity: high battery anxiety,120.0
+R0726,Yes,0.482,0.359,0.159,0,High propensity: high battery anxiety,210.0
+R0727,No,0.113,0.331,0.556,0,High propensity: high battery anxiety,275.0
+R0728,No,0.095,0.394,0.511,0,High propensity: high battery anxiety,180.0
+R0729,No,0.172,0.345,0.483,2,Low propensity: lower income,170.0
+R0730,Maybe,0.256,0.447,0.297,0,High propensity: high battery anxiety,270.0
+R0731,Maybe,0.052,0.153,0.796,1,Medium propensity: higher income,160.0
+R0732,No,0.067,0.217,0.716,1,Medium propensity: higher income,245.0
+R0733,No,0.093,0.336,0.572,1,Medium propensity: higher income,170.0
+R0734,No,0.141,0.33,0.529,2,Low propensity: lower income,120.0
+R0735,Yes,0.249,0.346,0.405,2,Low propensity: lower income,90.0
+R0736,Yes,0.435,0.356,0.209,1,Medium propensity: higher income,205.0
+R0737,Yes,0.278,0.406,0.316,0,High propensity: high battery anxiety,155.0
+R0738,No,0.051,0.243,0.705,1,Medium propensity: higher income,195.0
+R0739,No,0.015,0.043,0.942,1,Medium propensity: higher income,120.0
+R0740,Maybe,0.466,0.385,0.149,0,High propensity: high battery anxiety,295.0
+R0741,No,0.197,0.289,0.515,0,High propensity: high battery anxiety,210.0
+R0742,Yes,0.362,0.481,0.157,0,High propensity: high battery anxiety,215.0
+R0743,No,0.258,0.378,0.364,1,Medium propensity: higher income,245.0
+R0744,No,0.075,0.204,0.721,2,Low propensity: lower income,85.0
+R0745,No,0.153,0.33,0.517,1,Medium propensity: higher income,155.0
+R0746,No,0.183,0.252,0.565,1,Medium propensity: higher income,265.0
+R0747,Yes,0.476,0.375,0.149,0,High propensity: high battery anxiety,305.0
+R0748,No,0.068,0.162,0.771,2,Low propensity: lower income,220.0
+R0749,No,0.336,0.424,0.24,1,Medium propensity: higher income,285.0
+R0750,Maybe,0.157,0.415,0.428,1,Medium propensity: higher income,355.0
+R0751,No,0.12,0.2,0.68,2,Low propensity: lower income,160.0
+R0752,No,0.012,0.124,0.863,2,Low propensity: lower income,180.0
+R0753,No,0.061,0.07,0.869,2,Low propensity: lower income,240.0
+R0754,Yes,0.221,0.547,0.231,0,High propensity: high battery anxiety,150.0
+R0755,No,0.065,0.193,0.742,2,Low propensity: lower income,160.0
+R0756,No,0.024,0.144,0.832,2,Low propensity: lower income,90.0
+R0757,Yes,0.188,0.464,0.348,1,Medium propensity: higher income,295.0
+R0758,No,0.184,0.32,0.496,1,Medium propensity: higher income,325.0
+R0759,No,0.05,0.103,0.847,2,Low propensity: lower income,110.0
+R0760,Maybe,0.526,0.287,0.187,0,High propensity: high battery anxiety,90.0
+R0761,No,0.153,0.35,0.497,2,Low propensity: lower income,170.0
+R0762,No,0.085,0.192,0.723,1,Medium propensity: higher income,155.0
+R0763,No,0.071,0.16,0.769,1,Medium propensity: higher income,160.0
+R0764,Maybe,0.371,0.335,0.294,1,Medium propensity: higher income,360.0
+R0765,No,0.064,0.189,0.747,2,Low propensity: lower income,190.0
+R0766,No,0.075,0.149,0.777,1,Medium propensity: higher income,190.0
+R0767,No,0.177,0.426,0.397,1,Medium propensity: higher income,240.0
+R0768,No,0.155,0.301,0.544,2,Low propensity: lower income,170.0
+R0769,Maybe,0.055,0.258,0.687,2,Low propensity: lower income,100.0
+R0770,Yes,0.377,0.323,0.301,0,High propensity: high battery anxiety,135.0
+R0771,Maybe,0.104,0.487,0.41,1,Medium propensity: higher income,285.0
+R0772,Yes,0.645,0.225,0.13,0,High propensity: high battery anxiety,245.0
+R0773,No,0.112,0.249,0.64,1,Medium propensity: higher income,180.0
+R0774,No,0.111,0.227,0.661,2,Low propensity: lower income,160.0
+R0775,Yes,0.418,0.36,0.222,0,High propensity: high battery anxiety,165.0
+R0776,Maybe,0.321,0.399,0.28,0,High propensity: high battery anxiety,190.0
+R0777,Maybe,0.387,0.447,0.166,0,High propensity: high battery anxiety,280.0
+R0778,No,0.119,0.26,0.621,2,Low propensity: lower income,130.0
+R0779,Maybe,0.291,0.358,0.351,0,High propensity: high battery anxiety,185.0
+R0780,No,0.074,0.13,0.797,2,Low propensity: lower income,85.0
+R0781,Yes,0.575,0.299,0.126,0,High propensity: high battery anxiety,160.0
+R0782,No,0.128,0.325,0.547,1,Medium propensity: higher income,170.0
+R0783,Maybe,0.363,0.393,0.244,1,Medium propensity: higher income,295.0
+R0784,No,0.145,0.418,0.437,1,Medium propensity: higher income,170.0
+R0785,No,0.23,0.282,0.488,1,Medium propensity: higher income,220.0
+R0786,No,0.19,0.34,0.469,2,Low propensity: lower income,110.0
+R0787,No,0.192,0.366,0.441,1,Medium propensity: higher income,270.0
+R0788,No,0.118,0.244,0.638,2,Low propensity: lower income,180.0
+R0789,No,0.021,0.202,0.777,2,Low propensity: lower income,165.0
+R0790,Yes,0.136,0.37,0.494,0,High propensity: high battery anxiety,225.0
+R0791,Maybe,0.085,0.21,0.705,2,Low propensity: lower income,115.0
+R0792,No,0.053,0.151,0.796,2,Low propensity: lower income,155.0
+R0793,No,0.147,0.273,0.581,1,Medium propensity: higher income,205.0
+R0794,Maybe,0.192,0.372,0.436,2,Low propensity: lower income,120.0
+R0795,No,0.042,0.114,0.844,2,Low propensity: lower income,190.0
+R0796,No,0.124,0.222,0.654,1,Medium propensity: higher income,215.0
+R0797,Maybe,0.151,0.264,0.585,1,Medium propensity: higher income,265.0
+R0798,No,0.023,0.092,0.885,2,Low propensity: lower income,160.0
+R0799,Maybe,0.338,0.377,0.284,0,High propensity: high battery anxiety,280.0
+R0800,No,0.095,0.283,0.622,2,Low propensity: lower income,245.0
+R0801,Maybe,0.221,0.307,0.472,1,Medium propensity: higher income,205.0
+R0802,Yes,0.457,0.386,0.157,0,High propensity: high battery anxiety,385.0
+R0803,No,0.07,0.229,0.701,2,Low propensity: lower income,95.0
+R0804,No,0.148,0.382,0.469,0,High propensity: high battery anxiety,285.0
+R0805,No,0.041,0.145,0.814,2,Low propensity: lower income,70.0
+R0806,No,0.102,0.229,0.669,1,Medium propensity: higher income,245.466
+R0807,Maybe,0.394,0.45,0.156,0,High propensity: high battery anxiety,280.0
+R0808,No,0.08,0.168,0.753,1,Medium propensity: higher income,115.0
+R0809,Maybe,0.273,0.38,0.347,1,Medium propensity: higher income,295.0
+R0810,No,0.454,0.309,0.238,0,High propensity: high battery anxiety,175.0
+R0811,Maybe,0.319,0.422,0.26,1,Medium propensity: higher income,200.0
+R0812,No,0.052,0.196,0.752,1,Medium propensity: higher income,315.0
+R0813,No,0.178,0.202,0.62,2,Low propensity: lower income,140.0
+R0814,Maybe,0.176,0.464,0.36,1,Medium propensity: higher income,220.0
+R0815,Maybe,0.232,0.405,0.362,0,High propensity: high battery anxiety,155.0
+R0816,Maybe,0.294,0.287,0.419,0,High propensity: high battery anxiety,135.0
+R0817,No,0.067,0.241,0.692,1,Medium propensity: higher income,160.0
+R0818,Yes,0.081,0.25,0.67,1,Medium propensity: higher income,285.0
+R0819,No,0.048,0.261,0.69,2,Low propensity: lower income,145.0
+R0820,No,0.041,0.069,0.891,2,Low propensity: lower income,130.0
+R0821,No,0.133,0.265,0.602,2,Low propensity: lower income,150.0
+R0822,No,0.033,0.241,0.726,1,Medium propensity: higher income,185.0
+R0823,Maybe,0.031,0.172,0.797,2,Low propensity: lower income,120.0
+R0824,Maybe,0.279,0.416,0.305,0,High propensity: high battery anxiety,190.0
+R0825,Maybe,0.263,0.455,0.282,0,High propensity: high battery anxiety,175.0
+R0826,Maybe,0.255,0.347,0.397,0,High propensity: high battery anxiety,320.0
+R0827,No,0.057,0.122,0.82,1,Medium propensity: higher income,235.0
+R0828,Maybe,0.391,0.412,0.197,0,High propensity: high battery anxiety,130.0
+R0829,Maybe,0.173,0.502,0.326,1,Medium propensity: higher income,380.0
+R0830,No,0.113,0.272,0.616,0,High propensity: high battery anxiety,150.0
+R0831,Yes,0.572,0.256,0.171,0,High propensity: high battery anxiety,180.0
+R0832,No,0.088,0.169,0.743,1,Medium propensity: higher income,140.0
+R0833,No,0.058,0.143,0.799,1,Medium propensity: higher income,235.0
+R0834,Maybe,0.056,0.261,0.683,2,Low propensity: lower income,105.0
+R0835,Maybe,0.31,0.4,0.289,0,High propensity: high battery anxiety,210.0
+R0836,Maybe,0.481,0.326,0.193,0,High propensity: high battery anxiety,220.0
+R0838,No,0.052,0.155,0.794,2,Low propensity: lower income,110.0
+R0839,No,0.129,0.209,0.662,1,Medium propensity: higher income,275.0
+R0840,No,0.319,0.331,0.35,0,High propensity: high battery anxiety,245.0
+R0841,Yes,0.348,0.419,0.233,0,High propensity: high battery anxiety,244.588
+R0842,No,0.138,0.449,0.414,0,High propensity: high battery anxiety,140.0
+R0843,No,0.098,0.23,0.672,2,Low propensity: lower income,135.0
+R0844,No,0.053,0.142,0.805,2,Low propensity: lower income,110.0
+R0845,No,0.085,0.207,0.708,2,Low propensity: lower income,145.0
+R0846,No,0.093,0.286,0.622,1,Medium propensity: higher income,275.0
+R0847,No,0.029,0.146,0.825,2,Low propensity: lower income,145.0
+R0848,No,0.048,0.243,0.709,2,Low propensity: lower income,90.0
+R0849,No,0.034,0.249,0.717,1,Medium propensity: higher income,185.0
+R0850,Maybe,0.037,0.124,0.839,2,Low propensity: lower income,120.0
+R0851,No,0.191,0.282,0.527,1,Medium propensity: higher income,185.0
+R0852,No,0.073,0.123,0.804,2,Low propensity: lower income,85.0
+R0853,No,0.052,0.147,0.801,1,Medium propensity: higher income,140.0
+R0854,Maybe,0.176,0.305,0.519,1,Medium propensity: higher income,180.0
+R0855,No,0.241,0.373,0.386,1,Medium propensity: higher income,330.0
+R0856,No,0.064,0.191,0.745,1,Medium propensity: higher income,165.0
+R0857,No,0.089,0.352,0.558,1,Medium propensity: higher income,210.0
+R0858,No,0.053,0.174,0.773,1,Medium propensity: higher income,300.0
+R0859,No,0.075,0.141,0.784,1,Medium propensity: higher income,170.0
+R0860,Maybe,0.205,0.35,0.446,0,High propensity: high battery anxiety,190.065
+R0861,Yes,0.625,0.283,0.092,0,High propensity: high battery anxiety,225.0
+R0862,Maybe,0.238,0.446,0.316,0,High propensity: high battery anxiety,135.0
+R0863,No,0.051,0.3,0.649,2,Low propensity: lower income,110.0
+R0864,Yes,0.515,0.347,0.139,0,High propensity: high battery anxiety,150.0
+R0865,No,0.049,0.185,0.766,1,Medium propensity: higher income,170.0
+R0866,No,0.215,0.435,0.35,2,Low propensity: lower income,120.0
+R0867,No,0.072,0.198,0.731,1,Medium propensity: higher income,195.0
+R0868,Maybe,0.062,0.19,0.748,2,Low propensity: lower income,150.0
+R0869,No,0.017,0.076,0.907,2,Low propensity: lower income,85.0
+R0870,Maybe,0.575,0.205,0.219,0,High propensity: high battery anxiety,155.0
+R0871,No,0.061,0.279,0.66,1,Medium propensity: higher income,180.0
+R0872,Yes,0.603,0.317,0.08,0,High propensity: high battery anxiety,265.0
+R0873,No,0.114,0.169,0.717,1,Medium propensity: higher income,120.0
+R0874,No,0.044,0.229,0.727,2,Low propensity: lower income,165.0
+R0875,No,0.103,0.334,0.562,2,Low propensity: lower income,155.0
+R0876,Maybe,0.225,0.472,0.303,0,High propensity: high battery anxiety,310.0
+R0877,No,0.119,0.511,0.37,2,Low propensity: lower income,140.0
+R0878,No,0.044,0.168,0.789,2,Low propensity: lower income,130.0
+R0879,No,0.157,0.384,0.459,2,Low propensity: lower income,215.0
+R0880,Maybe,0.142,0.343,0.515,1,Medium propensity: higher income,280.0
+R0881,No,0.129,0.328,0.543,1,Medium propensity: higher income,155.0
+R0882,No,0.09,0.264,0.646,2,Low propensity: lower income,80.0
+R0883,No,0.021,0.111,0.868,2,Low propensity: lower income,130.0
+R0884,No,0.092,0.443,0.464,2,Low propensity: lower income,175.0
+R0885,No,0.101,0.194,0.704,2,Low propensity: lower income,120.0
+R0887,Yes,0.26,0.438,0.302,0,High propensity: high battery anxiety,210.0
+R0888,Maybe,0.29,0.302,0.408,2,Low propensity: lower income,225.0
+R0889,Yes,0.201,0.401,0.399,1,Medium propensity: higher income,170.0
+R0890,No,0.074,0.251,0.674,1,Medium propensity: higher income,135.0
+R0891,No,0.061,0.194,0.745,1,Medium propensity: higher income,145.0
+R0892,No,0.082,0.145,0.774,1,Medium propensity: higher income,205.0
+R0893,No,0.075,0.256,0.668,1,Medium propensity: higher income,390.0
+R0895,No,0.137,0.34,0.523,1,Medium propensity: higher income,270.0
+R0896,Yes,0.434,0.377,0.19,0,High propensity: high battery anxiety,190.0
+R0897,No,0.055,0.176,0.768,2,Low propensity: lower income,100.0
+R0898,Maybe,0.16,0.28,0.559,1,Medium propensity: higher income,197.424
+R0899,Maybe,0.201,0.456,0.344,0,High propensity: high battery anxiety,245.0
+R0901,No,0.163,0.2,0.637,2,Low propensity: lower income,135.0
+R0902,No,0.079,0.189,0.732,1,Medium propensity: higher income,235.0
+R0903,No,0.252,0.366,0.383,0,High propensity: high battery anxiety,130.0
+R0904,No,0.039,0.149,0.812,2,Low propensity: lower income,105.0
+R0905,No,0.051,0.283,0.666,2,Low propensity: lower income,165.0
+R0906,No,0.098,0.222,0.68,2,Low propensity: lower income,170.0
+R0907,No,0.079,0.362,0.559,2,Low propensity: lower income,160.0
+R0909,Maybe,0.11,0.335,0.556,1,Medium propensity: higher income,305.0
+R0910,No,0.029,0.101,0.87,2,Low propensity: lower income,145.0
+R0911,Maybe,0.146,0.421,0.433,2,Low propensity: lower income,100.0
+R0912,Yes,0.236,0.434,0.33,1,Medium propensity: higher income,280.0
+R0913,Maybe,0.294,0.281,0.425,1,Medium propensity: higher income,185.0
+R0914,No,0.197,0.429,0.374,2,Low propensity: lower income,170.0
+R0915,Maybe,0.274,0.418,0.308,1,Medium propensity: higher income,205.0
+R0916,No,0.185,0.34,0.475,0,High propensity: high battery anxiety,120.0
+R0917,No,0.187,0.255,0.557,2,Low propensity: lower income,110.0
+R0918,No,0.075,0.2,0.726,1,Medium propensity: higher income,335.0
+R0919,Yes,0.262,0.452,0.286,0,High propensity: high battery anxiety,290.0
+R0920,Yes,0.401,0.321,0.278,0,High propensity: high battery anxiety,240.0
+R0921,Maybe,0.348,0.417,0.235,0,High propensity: high battery anxiety,220.0
+R0922,No,0.061,0.217,0.722,1,Medium propensity: higher income,160.0
+R0923,Maybe,0.346,0.411,0.243,0,High propensity: high battery anxiety,320.0
+R0924,No,0.113,0.178,0.708,1,Medium propensity: higher income,440.0
+R0925,No,0.106,0.15,0.744,1,Medium propensity: higher income,205.0
+R0926,No,0.072,0.23,0.698,1,Medium propensity: higher income,167.053
+R0927,Maybe,0.222,0.355,0.424,0,High propensity: high battery anxiety,110.0
+R0928,No,0.087,0.293,0.621,1,Medium propensity: higher income,135.0
+R0929,Yes,0.343,0.388,0.269,1,Medium propensity: higher income,220.0
+R0930,No,0.107,0.195,0.698,1,Medium propensity: higher income,275.0
+R0931,No,0.221,0.381,0.397,0,High propensity: high battery anxiety,140.0
+R0932,No,0.123,0.301,0.576,1,Medium propensity: higher income,175.0
+R0933,Maybe,0.104,0.206,0.69,2,Low propensity: lower income,140.0
+R0934,No,0.223,0.38,0.397,0,High propensity: high battery anxiety,170.0
+R0935,No,0.033,0.158,0.808,2,Low propensity: lower income,85.0
+R0936,Yes,0.532,0.35,0.118,1,Medium propensity: higher income,485.0
+R0937,No,0.117,0.204,0.679,1,Medium propensity: higher income,190.0
+R0938,No,0.197,0.306,0.497,0,High propensity: high battery anxiety,150.0
+R0939,No,0.084,0.123,0.793,2,Low propensity: lower income,185.0
+R0940,Maybe,0.101,0.26,0.64,1,Medium propensity: higher income,140.0
+R0941,No,0.06,0.184,0.756,1,Medium propensity: higher income,175.0
+R0942,No,0.027,0.085,0.888,2,Low propensity: lower income,105.0
+R0943,Maybe,0.225,0.527,0.248,0,High propensity: high battery anxiety,265.0
+R0944,No,0.039,0.228,0.733,2,Low propensity: lower income,95.0
+R0945,No,0.09,0.167,0.742,2,Low propensity: lower income,70.0
+R0946,No,0.237,0.45,0.313,0,High propensity: high battery anxiety,230.0
+R0947,No,0.056,0.258,0.686,1,Medium propensity: higher income,190.0
+R0948,Yes,0.308,0.331,0.361,0,High propensity: high battery anxiety,95.0
+R0949,No,0.06,0.183,0.756,1,Medium propensity: higher income,175.0
+R0950,Yes,0.429,0.388,0.183,0,High propensity: high battery anxiety,305.0
+R0951,Yes,0.351,0.373,0.276,0,High propensity: high battery anxiety,310.0
+R0952,No,0.05,0.099,0.851,2,Low propensity: lower income,75.0
+R0953,No,0.093,0.147,0.759,2,Low propensity: lower income,140.0
+R0954,No,0.126,0.47,0.404,1,Medium propensity: higher income,205.0
+R0955,Maybe,0.291,0.502,0.207,1,Medium propensity: higher income,205.0
+R0956,Yes,0.014,0.098,0.888,2,Low propensity: lower income,89.341
+R0957,No,0.051,0.131,0.818,1,Medium propensity: higher income,205.0
+R0958,No,0.108,0.232,0.659,2,Low propensity: lower income,120.0
+R0959,No,0.067,0.082,0.851,2,Low propensity: lower income,170.0
+R0960,No,0.28,0.262,0.458,0,High propensity: high battery anxiety,130.0
+R0961,Maybe,0.472,0.299,0.228,0,High propensity: high battery anxiety,170.0
+R0962,No,0.042,0.091,0.867,1,Medium propensity: higher income,220.0
+R0963,No,0.025,0.057,0.918,2,Low propensity: lower income,140.0
+R0964,Maybe,0.027,0.256,0.718,2,Low propensity: lower income,155.0
+R0965,No,0.06,0.148,0.791,2,Low propensity: lower income,100.0
+R0966,Maybe,0.189,0.248,0.563,1,Medium propensity: higher income,215.0
+R0967,Maybe,0.654,0.234,0.112,0,High propensity: high battery anxiety,330.0
+R0968,No,0.054,0.237,0.709,2,Low propensity: lower income,90.0
+R0969,No,0.225,0.434,0.341,0,High propensity: high battery anxiety,130.0
+R0970,Maybe,0.065,0.187,0.748,1,Medium propensity: higher income,250.0
+R0971,Maybe,0.39,0.369,0.241,0,High propensity: high battery anxiety,245.0
+R0972,Maybe,0.195,0.299,0.506,2,Low propensity: lower income,190.0
+R0973,No,0.047,0.292,0.66,1,Medium propensity: higher income,430.0
+R0974,No,0.034,0.128,0.838,2,Low propensity: lower income,128.627
+R0975,Maybe,0.274,0.448,0.278,0,High propensity: high battery anxiety,320.0
+R0976,No,0.057,0.269,0.674,1,Medium propensity: higher income,415.0
+R0977,No,0.063,0.161,0.776,1,Medium propensity: higher income,180.0
+R0978,No,0.252,0.308,0.44,0,High propensity: high battery anxiety,150.0
+R0979,No,0.169,0.433,0.398,1,Medium propensity: higher income,285.0
+R0980,Yes,0.409,0.388,0.202,0,High propensity: high battery anxiety,275.0
+R0982,No,0.181,0.333,0.485,2,Low propensity: lower income,215.0
+R0983,No,0.309,0.398,0.293,0,High propensity: high battery anxiety,205.0
+R0984,No,0.068,0.16,0.772,2,Low propensity: lower income,95.0
+R0985,No,0.025,0.111,0.864,1,Medium propensity: higher income,200.0
+R0986,Maybe,0.252,0.371,0.377,0,High propensity: high battery anxiety,360.0
+R0987,No,0.305,0.313,0.383,0,High propensity: high battery anxiety,115.0
+R0988,No,0.026,0.205,0.769,1,Medium propensity: higher income,205.0
+R0989,Yes,0.292,0.391,0.317,0,High propensity: high battery anxiety,150.0
+R0990,Maybe,0.424,0.45,0.126,0,High propensity: high battery anxiety,500.0
+R0991,No,0.109,0.318,0.574,1,Medium propensity: higher income,195.0
+R0992,Maybe,0.292,0.417,0.291,1,Medium propensity: higher income,210.0
+R0993,No,0.067,0.122,0.811,1,Medium propensity: higher income,240.0
+R0994,Yes,0.392,0.457,0.151,0,High propensity: high battery anxiety,195.0
+R0995,No,0.093,0.26,0.647,2,Low propensity: lower income,130.0
+R0996,No,0.138,0.238,0.624,1,Medium propensity: higher income,470.0
+R0997,Yes,0.231,0.376,0.392,1,Medium propensity: higher income,395.0
+R0998,No,0.02,0.043,0.937,2,Low propensity: lower income,100.0
+R0999,No,0.169,0.351,0.48,2,Low propensity: lower income,145.0
+R1000,No,0.287,0.491,0.222,0,High propensity: high battery anxiety,235.0
+R1001,No,0.083,0.186,0.731,1,Medium propensity: higher income,225.0
+R1002,No,0.084,0.195,0.72,2,Low propensity: lower income,110.0
+R1003,No,0.069,0.177,0.754,1,Medium propensity: higher income,310.0
+R1004,No,0.288,0.374,0.338,2,Low propensity: lower income,115.0
+R1005,Maybe,0.109,0.293,0.597,1,Medium propensity: higher income,150.0
+R1006,Maybe,0.066,0.242,0.692,2,Low propensity: lower income,100.0
+R1007,No,0.069,0.156,0.775,2,Low propensity: lower income,115.0
+R1008,No,0.095,0.232,0.673,2,Low propensity: lower income,125.0
+R1009,Maybe,0.088,0.242,0.67,2,Low propensity: lower income,140.0
+R1010,No,0.092,0.254,0.654,2,Low propensity: lower income,75.0
+R1011,No,0.088,0.198,0.714,1,Medium propensity: higher income,245.0
+R1012,No,0.213,0.295,0.492,1,Medium propensity: higher income,485.0
+R1013,Yes,0.271,0.384,0.345,1,Medium propensity: higher income,190.0
+R1014,No,0.266,0.377,0.358,1,Medium propensity: higher income,205.0
+R1015,No,0.095,0.204,0.702,1,Medium propensity: higher income,257.169
+R1016,No,0.104,0.231,0.666,1,Medium propensity: higher income,275.0
+R1017,No,0.203,0.369,0.428,1,Medium propensity: higher income,375.0
+R1018,Yes,0.46,0.316,0.224,0,High propensity: high battery anxiety,165.0
+R1019,No,0.151,0.371,0.478,1,Medium propensity: higher income,235.0
+R1020,No,0.188,0.396,0.417,0,High propensity: high battery anxiety,195.0
+R1021,No,0.11,0.286,0.604,1,Medium propensity: higher income,222.643
+R1022,No,0.155,0.185,0.66,1,Medium propensity: higher income,215.0
+R1023,No,0.133,0.306,0.562,2,Low propensity: lower income,115.0
+R1024,Maybe,0.184,0.353,0.462,2,Low propensity: lower income,130.0
+R1025,No,0.07,0.141,0.789,1,Medium propensity: higher income,210.0
+R1026,Maybe,0.029,0.098,0.873,2,Low propensity: lower income,100.0
+R1027,No,0.075,0.172,0.753,2,Low propensity: lower income,135.0
+R1028,No,0.003,0.076,0.921,2,Low propensity: lower income,100.0
+R1029,Yes,0.267,0.506,0.227,0,High propensity: high battery anxiety,155.0
+R1030,No,0.113,0.299,0.587,2,Low propensity: lower income,140.0
+R1031,No,0.193,0.349,0.459,1,Medium propensity: higher income,345.0
+R1032,No,0.067,0.144,0.789,1,Medium propensity: higher income,370.0
+R1033,No,0.012,0.094,0.894,2,Low propensity: lower income,195.0
+R1034,No,0.168,0.268,0.564,0,High propensity: high battery anxiety,175.0
+R1035,No,0.147,0.353,0.5,0,High propensity: high battery anxiety,180.0
+R1036,Yes,0.222,0.45,0.328,1,Medium propensity: higher income,250.0
+R1037,No,0.019,0.13,0.851,2,Low propensity: lower income,80.0
+R1039,No,0.066,0.145,0.789,2,Low propensity: lower income,90.0
+R1040,Maybe,0.484,0.335,0.18,0,High propensity: high battery anxiety,310.0
+R1041,No,0.085,0.123,0.792,1,Medium propensity: higher income,280.0
+R1042,No,0.087,0.149,0.765,1,Medium propensity: higher income,150.0
+R1043,No,0.244,0.381,0.374,1,Medium propensity: higher income,245.0
+R1044,No,0.075,0.196,0.729,1,Medium propensity: higher income,130.0
+R1045,No,0.08,0.235,0.685,2,Low propensity: lower income,155.0
+R1046,No,0.073,0.108,0.819,1,Medium propensity: higher income,230.0
+R1047,Maybe,0.294,0.403,0.303,0,High propensity: high battery anxiety,175.0
+R1048,Maybe,0.259,0.327,0.414,0,High propensity: high battery anxiety,115.0
+R1049,Maybe,0.323,0.354,0.323,0,High propensity: high battery anxiety,255.0
+R1050,No,0.044,0.289,0.668,1,Medium propensity: higher income,190.0
+R1051,No,0.017,0.103,0.881,2,Low propensity: lower income,155.0
+R1052,No,0.051,0.25,0.699,1,Medium propensity: higher income,220.0
+R1053,No,0.091,0.345,0.564,1,Medium propensity: higher income,185.0
+R1054,Maybe,0.108,0.358,0.534,1,Medium propensity: higher income,205.0
+R1055,Maybe,0.169,0.237,0.594,1,Medium propensity: higher income,110.0
+R1056,Maybe,0.396,0.267,0.337,0,High propensity: high battery anxiety,200.0
+R1057,Maybe,0.269,0.374,0.356,1,Medium propensity: higher income,325.0
+R1058,Maybe,0.171,0.455,0.374,1,Medium propensity: higher income,460.0
+R1059,No,0.036,0.125,0.839,2,Low propensity: lower income,115.0
+R1060,Yes,0.366,0.333,0.301,0,High propensity: high battery anxiety,165.0
+R1061,No,0.121,0.211,0.668,1,Medium propensity: higher income,246.499
+R1062,No,0.037,0.132,0.831,2,Low propensity: lower income,95.0
+R1063,Maybe,0.084,0.128,0.789,1,Medium propensity: higher income,165.0
+R1064,No,0.083,0.212,0.705,1,Medium propensity: higher income,375.0
+R1065,No,0.111,0.312,0.577,1,Medium propensity: higher income,130.0
+R1066,No,0.045,0.101,0.854,2,Low propensity: lower income,155.0
+R1067,Yes,0.264,0.471,0.265,0,High propensity: high battery anxiety,200.0
+R1069,Yes,0.258,0.375,0.367,0,High propensity: high battery anxiety,235.0
+R1070,Maybe,0.033,0.247,0.72,1,Medium propensity: higher income,190.0
+R1071,No,0.046,0.16,0.793,2,Low propensity: lower income,90.0
+R1072,No,0.067,0.325,0.608,2,Low propensity: lower income,160.0
+R1073,No,0.115,0.236,0.65,2,Low propensity: lower income,93.885
+R1074,Yes,0.208,0.371,0.42,1,Medium propensity: higher income,425.0
+R1075,No,0.029,0.048,0.923,2,Low propensity: lower income,116.939
+R1076,No,0.038,0.131,0.831,2,Low propensity: lower income,85.0
+R1077,No,0.051,0.218,0.731,1,Medium propensity: higher income,245.0
+R1078,Yes,0.202,0.347,0.451,0,High propensity: high battery anxiety,230.0
+R1079,No,0.102,0.329,0.569,2,Low propensity: lower income,180.0
+R1080,No,0.013,0.086,0.901,2,Low propensity: lower income,85.0
+R1081,No,0.144,0.372,0.484,1,Medium propensity: higher income,270.0
+R1082,No,0.292,0.38,0.328,1,Medium propensity: higher income,370.0
+R1083,No,0.148,0.266,0.586,1,Medium propensity: higher income,335.0
+R1084,No,0.026,0.145,0.829,2,Low propensity: lower income,100.0
+R1085,No,0.073,0.19,0.737,2,Low propensity: lower income,145.0
+R1086,Maybe,0.088,0.259,0.653,1,Medium propensity: higher income,110.0
+R1087,No,0.099,0.301,0.6,2,Low propensity: lower income,160.0
+R1088,No,0.235,0.507,0.257,0,High propensity: high battery anxiety,230.0
+R1089,No,0.063,0.309,0.628,2,Low propensity: lower income,100.0
+R1090,No,0.06,0.107,0.833,2,Low propensity: lower income,167.466
+R1091,No,0.183,0.474,0.344,0,High propensity: high battery anxiety,160.0
+R1092,Yes,0.408,0.403,0.189,0,High propensity: high battery anxiety,285.0
+R1093,Maybe,0.226,0.482,0.292,0,High propensity: high battery anxiety,245.0
+R1094,No,0.091,0.122,0.788,1,Medium propensity: higher income,155.0
+R1095,No,0.162,0.316,0.521,2,Low propensity: lower income,105.0
+R1096,No,0.196,0.416,0.388,1,Medium propensity: higher income,235.0
+R1097,No,0.026,0.08,0.894,2,Low propensity: lower income,90.0
+R1098,No,0.077,0.121,0.802,2,Low propensity: lower income,110.0
+R1099,No,0.148,0.278,0.574,1,Medium propensity: higher income,265.0
+R1100,No,0.14,0.198,0.662,0,High propensity: high battery anxiety,150.0
+R1101,No,0.224,0.428,0.348,1,Medium propensity: higher income,325.0
+R1102,Maybe,0.271,0.339,0.389,1,Medium propensity: higher income,265.0
+R1103,No,0.036,0.147,0.817,2,Low propensity: lower income,165.0
+R1104,No,0.077,0.285,0.639,1,Medium propensity: higher income,300.0
+R1105,No,0.065,0.151,0.784,1,Medium propensity: higher income,205.0
+R1106,No,0.067,0.274,0.659,1,Medium propensity: higher income,295.0
+R1107,No,0.096,0.17,0.734,2,Low propensity: lower income,110.0
+R1108,No,0.06,0.3,0.64,2,Low propensity: lower income,75.0
+R1109,Maybe,0.107,0.292,0.601,0,High propensity: high battery anxiety,250.0
+R1110,No,0.302,0.416,0.282,0,High propensity: high battery anxiety,205.0
+R1111,No,0.05,0.081,0.869,1,Medium propensity: higher income,170.0
+R1112,No,0.077,0.242,0.682,1,Medium propensity: higher income,240.0
+R1113,Yes,0.408,0.392,0.2,0,High propensity: high battery anxiety,360.0
+R1114,No,0.069,0.401,0.53,1,Medium propensity: higher income,215.0
+R1115,Maybe,0.344,0.41,0.246,0,High propensity: high battery anxiety,262.295
+R1116,No,0.04,0.116,0.844,2,Low propensity: lower income,85.0
+R1117,No,0.11,0.268,0.622,2,Low propensity: lower income,105.0
+R1118,No,0.128,0.3,0.571,1,Medium propensity: higher income,195.0
+R1119,Maybe,0.281,0.353,0.366,1,Medium propensity: higher income,245.0
+R1120,No,0.11,0.27,0.621,2,Low propensity: lower income,110.0
+R1121,No,0.048,0.099,0.852,1,Medium propensity: higher income,195.0
+R1122,No,0.083,0.157,0.76,2,Low propensity: lower income,115.0
+R1123,No,0.106,0.257,0.636,2,Low propensity: lower income,110.0
+R1124,No,0.082,0.202,0.716,2,Low propensity: lower income,105.0
+R1126,No,0.05,0.159,0.791,2,Low propensity: lower income,170.0
+R1127,No,0.145,0.321,0.535,2,Low propensity: lower income,185.0
+R1128,No,0.073,0.208,0.718,2,Low propensity: lower income,199.702
+R1129,Yes,0.443,0.36,0.198,0,High propensity: high battery anxiety,140.0
+R1130,Maybe,0.138,0.425,0.438,1,Medium propensity: higher income,265.0
+R1131,No,0.051,0.36,0.589,1,Medium propensity: higher income,310.0
+R1132,No,0.04,0.149,0.81,1,Medium propensity: higher income,110.0
+R1133,No,0.12,0.43,0.45,1,Medium propensity: higher income,295.0
+R1134,No,0.033,0.105,0.862,2,Low propensity: lower income,95.0
+R1135,No,0.311,0.339,0.35,0,High propensity: high battery anxiety,196.563
+R1136,No,0.016,0.124,0.86,2,Low propensity: lower income,105.0
+R1137,No,0.187,0.469,0.344,1,Medium propensity: higher income,295.0
+R1138,No,0.025,0.147,0.828,2,Low propensity: lower income,175.337
+R1139,No,0.056,0.256,0.688,2,Low propensity: lower income,150.0
+R1140,Yes,0.565,0.313,0.122,0,High propensity: high battery anxiety,230.0
+R1141,No,0.129,0.31,0.561,0,High propensity: high battery anxiety,135.0
+R1142,No,0.065,0.316,0.619,1,Medium propensity: higher income,300.0
+R1143,No,0.339,0.348,0.313,0,High propensity: high battery anxiety,125.0
+R1144,No,0.065,0.097,0.837,2,Low propensity: lower income,90.0
+R1145,No,0.034,0.253,0.713,1,Medium propensity: higher income,135.0
+R1146,Maybe,0.181,0.291,0.528,1,Medium propensity: higher income,130.0
+R1147,No,0.077,0.337,0.586,2,Low propensity: lower income,175.0
+R1148,Yes,0.336,0.296,0.367,0,High propensity: high battery anxiety,140.969
+R1149,No,0.064,0.121,0.816,2,Low propensity: lower income,145.0
+R1150,Yes,0.518,0.334,0.148,0,High propensity: high battery anxiety,190.691
+R1151,No,0.047,0.193,0.76,2,Low propensity: lower income,150.0
+R1152,No,0.092,0.32,0.587,1,Medium propensity: higher income,260.0
+R1153,Yes,0.121,0.376,0.502,2,Low propensity: lower income,195.0
+R1154,No,0.116,0.22,0.664,2,Low propensity: lower income,85.0
+R1155,No,0.096,0.122,0.782,1,Medium propensity: higher income,200.0
+R1156,No,0.092,0.205,0.703,2,Low propensity: lower income,180.0
+R1157,Maybe,0.091,0.31,0.599,2,Low propensity: lower income,90.0
+R1158,Maybe,0.093,0.258,0.65,1,Medium propensity: higher income,166.999
+R1159,No,0.109,0.338,0.553,2,Low propensity: lower income,70.0
+R1160,Maybe,0.156,0.349,0.494,2,Low propensity: lower income,185.0
+R1161,Maybe,0.435,0.337,0.228,0,High propensity: high battery anxiety,180.0
+R1162,Yes,0.323,0.398,0.279,0,High propensity: high battery anxiety,155.0
+R1164,No,0.207,0.336,0.457,0,High propensity: high battery anxiety,125.0
+R1165,Maybe,0.104,0.351,0.545,2,Low propensity: lower income,180.0
+R1166,No,0.104,0.35,0.546,1,Medium propensity: higher income,330.0
+R1167,Maybe,0.453,0.407,0.14,0,High propensity: high battery anxiety,240.0
+R1168,No,0.078,0.231,0.691,1,Medium propensity: higher income,165.0
+R1169,No,0.006,0.036,0.958,2,Low propensity: lower income,85.0
+R1170,Maybe,0.373,0.364,0.263,1,Medium propensity: higher income,310.0
+R1171,Maybe,0.098,0.304,0.598,0,High propensity: high battery anxiety,170.0
+R1172,Maybe,0.206,0.524,0.27,0,High propensity: high battery anxiety,220.0
+R1173,No,0.21,0.3,0.49,2,Low propensity: lower income,170.0
+R1174,Maybe,0.353,0.326,0.32,0,High propensity: high battery anxiety,230.0
+R1175,No,0.033,0.129,0.838,2,Low propensity: lower income,185.0
+R1176,No,0.031,0.101,0.868,2,Low propensity: lower income,175.0
+R1177,Yes,0.372,0.467,0.161,0,High propensity: high battery anxiety,180.0
+R1178,No,0.083,0.288,0.628,1,Medium propensity: higher income,245.0
+R1179,No,0.03,0.145,0.825,2,Low propensity: lower income,110.0
+R1180,No,0.074,0.189,0.737,1,Medium propensity: higher income,245.0
+R1181,No,0.08,0.243,0.677,2,Low propensity: lower income,65.0
+R1182,No,0.182,0.258,0.56,1,Medium propensity: higher income,400.0
+R1183,Maybe,0.162,0.279,0.559,0,High propensity: high battery anxiety,164.638
+R1184,No,0.147,0.321,0.532,1,Medium propensity: higher income,165.0
+R1185,No,0.13,0.297,0.573,1,Medium propensity: higher income,305.0
+R1186,Maybe,0.151,0.408,0.441,2,Low propensity: lower income,195.0
+R1187,Maybe,0.163,0.265,0.573,2,Low propensity: lower income,215.0
+R1188,Yes,0.467,0.318,0.215,0,High propensity: high battery anxiety,220.0
+R1189,Maybe,0.149,0.411,0.439,1,Medium propensity: higher income,240.0
+R1190,No,0.097,0.409,0.494,2,Low propensity: lower income,130.0
+R1191,Yes,0.09,0.509,0.401,1,Medium propensity: higher income,170.0
+R1192,Maybe,0.265,0.437,0.298,1,Medium propensity: higher income,195.0
+R1193,Maybe,0.118,0.191,0.69,1,Medium propensity: higher income,275.0
+R1194,No,0.247,0.343,0.41,2,Low propensity: lower income,70.0
+R1195,No,0.111,0.194,0.695,2,Low propensity: lower income,130.0
+R1196,Maybe,0.23,0.452,0.318,1,Medium propensity: higher income,180.0
+R1197,No,0.083,0.383,0.534,1,Medium propensity: higher income,135.0
+R1198,Maybe,0.484,0.318,0.197,0,High propensity: high battery anxiety,220.0
+R1199,Maybe,0.255,0.389,0.356,0,High propensity: high battery anxiety,80.0
+R1200,No,0.206,0.456,0.338,0,High propensity: high battery anxiety,115.0
+R1201,Maybe,0.134,0.369,0.497,1,Medium propensity: higher income,385.0
+R1202,Maybe,0.368,0.358,0.274,0,High propensity: high battery anxiety,140.0
+R1203,No,0.103,0.321,0.576,2,Low propensity: lower income,210.0
+R1204,No,0.05,0.07,0.879,2,Low propensity: lower income,130.0
+R1205,Yes,0.313,0.309,0.378,0,High propensity: high battery anxiety,155.0
+R1206,No,0.028,0.116,0.856,2,Low propensity: lower income,95.0
+R1207,Maybe,0.43,0.341,0.229,0,High propensity: high battery anxiety,130.0
+R1208,Yes,0.061,0.207,0.732,2,Low propensity: lower income,235.0
+R1209,No,0.058,0.18,0.762,1,Medium propensity: higher income,250.0
+R1210,No,0.07,0.191,0.739,2,Low propensity: lower income,165.0
+R1211,No,0.098,0.21,0.692,0,High propensity: high battery anxiety,175.0
+R1212,No,0.09,0.239,0.671,2,Low propensity: lower income,205.0
+R1213,Maybe,0.188,0.405,0.406,0,High propensity: high battery anxiety,155.0
+R1214,No,0.054,0.16,0.785,2,Low propensity: lower income,75.0
+R1215,Maybe,0.189,0.296,0.515,0,High propensity: high battery anxiety,105.0
+R1216,Maybe,0.143,0.253,0.605,1,Medium propensity: higher income,250.0
+R1217,No,0.041,0.125,0.834,2,Low propensity: lower income,100.0
+R1218,Maybe,0.189,0.272,0.539,1,Medium propensity: higher income,340.0
+R1219,No,0.179,0.463,0.358,1,Medium propensity: higher income,260.0
+R1220,No,0.033,0.129,0.837,2,Low propensity: lower income,110.0
+R1221,Yes,0.023,0.106,0.872,1,Medium propensity: higher income,185.0
+R1222,No,0.226,0.241,0.533,2,Low propensity: lower income,80.0
+R1223,Maybe,0.115,0.415,0.47,1,Medium propensity: higher income,160.0
+R1224,No,0.154,0.24,0.607,1,Medium propensity: higher income,435.0
+R1225,Maybe,0.136,0.376,0.487,1,Medium propensity: higher income,200.0
+R1226,Maybe,0.223,0.349,0.429,1,Medium propensity: higher income,210.0
+R1228,Maybe,0.223,0.429,0.348,2,Low propensity: lower income,245.0
+R1229,Yes,0.299,0.452,0.249,0,High propensity: high battery anxiety,350.0
+R1230,No,0.132,0.416,0.452,2,Low propensity: lower income,100.0
+R1231,Yes,0.376,0.35,0.274,0,High propensity: high battery anxiety,170.0
+R1232,No,0.138,0.258,0.604,2,Low propensity: lower income,155.0
+R1233,No,0.048,0.23,0.722,2,Low propensity: lower income,130.0
+R1234,No,0.122,0.344,0.534,1,Medium propensity: higher income,95.0
+R1235,Maybe,0.173,0.413,0.414,2,Low propensity: lower income,175.0
+R1237,No,0.298,0.386,0.316,2,Low propensity: lower income,150.203
+R1238,No,0.02,0.193,0.786,2,Low propensity: lower income,100.0
+R1239,Yes,0.498,0.338,0.164,0,High propensity: high battery anxiety,390.0
+R1240,No,0.234,0.372,0.394,2,Low propensity: lower income,245.0
+R1241,Yes,0.32,0.42,0.259,0,High propensity: high battery anxiety,255.0
+R1242,Maybe,0.223,0.443,0.334,1,Medium propensity: higher income,165.0
+R1243,Maybe,0.165,0.324,0.511,1,Medium propensity: higher income,210.0
+R1244,No,0.124,0.232,0.644,0,High propensity: high battery anxiety,120.0
+R1245,No,0.148,0.325,0.527,1,Medium propensity: higher income,415.0
+R1246,Maybe,0.133,0.507,0.36,1,Medium propensity: higher income,500.0
+R1247,No,0.165,0.303,0.532,2,Low propensity: lower income,210.0
+R1248,No,0.041,0.223,0.736,2,Low propensity: lower income,100.0
+R1249,Yes,0.297,0.422,0.281,0,High propensity: high battery anxiety,500.0
+R1250,No,0.111,0.382,0.507,1,Medium propensity: higher income,465.0
+R1251,No,0.095,0.258,0.647,1,Medium propensity: higher income,185.0
+R1252,No,0.023,0.138,0.838,2,Low propensity: lower income,85.0
+R1253,Yes,0.402,0.444,0.154,0,High propensity: high battery anxiety,320.376
+R1254,Maybe,0.147,0.472,0.381,1,Medium propensity: higher income,235.0
+R1255,No,0.143,0.227,0.63,2,Low propensity: lower income,55.0
+R1256,No,0.099,0.337,0.564,1,Medium propensity: higher income,295.0
+R1257,No,0.072,0.233,0.695,1,Medium propensity: higher income,390.0
+R1258,Maybe,0.125,0.297,0.578,1,Medium propensity: higher income,315.0
+R1260,No,0.114,0.377,0.509,2,Low propensity: lower income,195.0
+R1261,Yes,0.096,0.217,0.687,1,Medium propensity: higher income,120.0
+R1262,No,0.058,0.133,0.809,1,Medium propensity: higher income,175.0
+R1263,Maybe,0.106,0.431,0.464,1,Medium propensity: higher income,175.0
+R1264,Maybe,0.158,0.572,0.271,0,High propensity: high battery anxiety,230.0
+R1265,No,0.257,0.307,0.436,0,High propensity: high battery anxiety,180.0
+R1266,Maybe,0.349,0.425,0.226,1,Medium propensity: higher income,250.0
+R1267,Maybe,0.423,0.412,0.165,0,High propensity: high battery anxiety,195.0
+R1268,Yes,0.102,0.224,0.674,1,Medium propensity: higher income,130.0
+R1269,No,0.103,0.147,0.75,1,Medium propensity: higher income,180.0
+R1270,No,0.065,0.251,0.685,1,Medium propensity: higher income,195.0
+R1271,Yes,0.346,0.336,0.318,0,High propensity: high battery anxiety,230.0
+R1272,No,0.046,0.17,0.784,2,Low propensity: lower income,145.0
+R1273,Maybe,0.102,0.286,0.613,2,Low propensity: lower income,140.0
+R1274,No,0.131,0.259,0.61,2,Low propensity: lower income,195.0
+R1275,No,0.098,0.178,0.723,1,Medium propensity: higher income,205.0
+R1276,Maybe,0.151,0.532,0.317,0,High propensity: high battery anxiety,165.0
+R1277,No,0.066,0.243,0.691,2,Low propensity: lower income,100.0
+R1278,Yes,0.033,0.213,0.755,1,Medium propensity: higher income,245.0
+R1279,Yes,0.421,0.368,0.211,0,High propensity: high battery anxiety,105.0
+R1280,Maybe,0.189,0.477,0.334,1,Medium propensity: higher income,295.0
+R1281,No,0.158,0.283,0.559,1,Medium propensity: higher income,230.0
+R1282,No,0.165,0.358,0.477,1,Medium propensity: higher income,255.0
+R1283,No,0.105,0.225,0.669,2,Low propensity: lower income,205.0
+R1284,Yes,0.425,0.433,0.141,0,High propensity: high battery anxiety,240.0
+R1285,Maybe,0.22,0.378,0.402,0,High propensity: high battery anxiety,210.0
+R1286,No,0.047,0.113,0.84,2,Low propensity: lower income,120.0
+R1287,Maybe,0.438,0.369,0.193,0,High propensity: high battery anxiety,295.0
+R1288,Yes,0.052,0.39,0.558,2,Low propensity: lower income,230.0
+R1289,No,0.054,0.112,0.834,1,Medium propensity: higher income,370.0
+R1290,Maybe,0.113,0.4,0.487,2,Low propensity: lower income,120.0
+R1292,No,0.379,0.356,0.265,0,High propensity: high battery anxiety,225.0
+R1293,No,0.076,0.17,0.754,1,Medium propensity: higher income,275.0
+R1294,No,0.114,0.219,0.667,2,Low propensity: lower income,120.0
+R1295,Maybe,0.281,0.29,0.429,0,High propensity: high battery anxiety,185.0
+R1296,No,0.171,0.325,0.504,1,Medium propensity: higher income,155.0
+R1297,No,0.086,0.235,0.679,2,Low propensity: lower income,115.0
+R1298,Maybe,0.441,0.368,0.191,0,High propensity: high battery anxiety,130.0
+R1299,No,0.148,0.22,0.632,1,Medium propensity: higher income,170.0
+R1300,No,0.053,0.135,0.813,2,Low propensity: lower income,130.397
+R1301,Maybe,0.081,0.305,0.614,1,Medium propensity: higher income,165.0
+R1302,Maybe,0.071,0.206,0.723,2,Low propensity: lower income,145.0
+R1303,Yes,0.569,0.331,0.1,0,High propensity: high battery anxiety,500.0
+R1304,Yes,0.35,0.466,0.185,0,High propensity: high battery anxiety,270.0
+R1305,No,0.249,0.381,0.37,2,Low propensity: lower income,185.0
+R1306,Maybe,0.22,0.41,0.371,0,High propensity: high battery anxiety,150.0
+R1307,Maybe,0.118,0.278,0.604,1,Medium propensity: higher income,195.0
+R1308,No,0.062,0.211,0.727,2,Low propensity: lower income,150.0
+R1309,No,0.027,0.093,0.881,2,Low propensity: lower income,60.0
+R1310,No,0.073,0.23,0.696,1,Medium propensity: higher income,175.0
+R1311,No,0.085,0.188,0.726,2,Low propensity: lower income,195.0
+R1312,Maybe,0.181,0.487,0.332,0,High propensity: high battery anxiety,170.0
+R1313,No,0.034,0.168,0.799,1,Medium propensity: higher income,170.0
+R1314,Maybe,0.481,0.326,0.193,0,High propensity: high battery anxiety,246.482
+R1315,No,0.075,0.268,0.658,1,Medium propensity: higher income,185.0
+R1316,Maybe,0.172,0.469,0.358,0,High propensity: high battery anxiety,245.0
+R1317,No,0.025,0.18,0.795,2,Low propensity: lower income,120.0
+R1318,Maybe,0.098,0.229,0.673,1,Medium propensity: higher income,180.0
+R1319,Maybe,0.205,0.35,0.446,1,Medium propensity: higher income,215.0
+R1320,Maybe,0.274,0.329,0.397,0,High propensity: high battery anxiety,270.0
+R1321,Maybe,0.092,0.284,0.624,1,Medium propensity: higher income,160.0
+R1322,No,0.125,0.371,0.505,2,Low propensity: lower income,250.0
+R1323,No,0.024,0.119,0.857,2,Low propensity: lower income,120.0
+R1324,No,0.058,0.138,0.804,2,Low propensity: lower income,150.0
+R1325,No,0.096,0.301,0.602,2,Low propensity: lower income,150.0
+R1326,No,0.09,0.14,0.77,1,Medium propensity: higher income,165.0
+R1327,No,0.099,0.339,0.562,2,Low propensity: lower income,110.0
+R1328,Maybe,0.183,0.44,0.377,0,High propensity: high battery anxiety,220.0
+R1330,No,0.188,0.21,0.602,1,Medium propensity: higher income,155.0
+R1331,No,0.163,0.334,0.504,2,Low propensity: lower income,226.203
+R1332,No,0.068,0.263,0.67,1,Medium propensity: higher income,185.0
+R1333,No,0.177,0.205,0.618,1,Medium propensity: higher income,190.0
+R1334,Maybe,0.292,0.503,0.204,1,Medium propensity: higher income,450.0
+R1335,No,0.076,0.27,0.653,2,Low propensity: lower income,170.0
+R1336,No,0.207,0.378,0.415,0,High propensity: high battery anxiety,290.0
+R1337,No,0.122,0.324,0.554,2,Low propensity: lower income,195.0
+R1338,Yes,0.416,0.374,0.21,0,High propensity: high battery anxiety,215.0
+R1339,Maybe,0.145,0.247,0.609,0,High propensity: high battery anxiety,150.0
+R1340,Maybe,0.101,0.35,0.549,1,Medium propensity: higher income,160.0
+R1341,No,0.142,0.307,0.551,2,Low propensity: lower income,130.0
+R1342,No,0.04,0.178,0.783,2,Low propensity: lower income,80.0
+R1343,Maybe,0.121,0.331,0.547,2,Low propensity: lower income,180.0
+R1344,Yes,0.374,0.403,0.223,0,High propensity: high battery anxiety,185.0
+R1345,Yes,0.318,0.424,0.258,0,High propensity: high battery anxiety,205.0
+R1346,No,0.018,0.124,0.858,2,Low propensity: lower income,180.0
+R1347,Yes,0.409,0.455,0.136,0,High propensity: high battery anxiety,250.0
+R1348,No,0.114,0.353,0.533,2,Low propensity: lower income,150.0
+R1349,No,0.077,0.191,0.732,2,Low propensity: lower income,100.0
+R1350,No,0.071,0.173,0.756,1,Medium propensity: higher income,169.362
+R1351,No,0.048,0.14,0.812,2,Low propensity: lower income,120.0
+R1352,Maybe,0.202,0.505,0.294,0,High propensity: high battery anxiety,175.0
+R1353,No,0.196,0.385,0.419,2,Low propensity: lower income,165.0
+R1354,Maybe,0.229,0.257,0.515,0,High propensity: high battery anxiety,210.0
+R1355,Maybe,0.087,0.238,0.676,1,Medium propensity: higher income,460.0
+R1356,No,0.133,0.215,0.652,1,Medium propensity: higher income,245.0
+R1357,No,0.146,0.353,0.501,1,Medium propensity: higher income,325.0
+R1358,Maybe,0.14,0.496,0.364,1,Medium propensity: higher income,240.0
+R1359,No,0.023,0.206,0.771,1,Medium propensity: higher income,180.0
+R1360,Maybe,0.199,0.372,0.43,1,Medium propensity: higher income,165.0
+R1361,Maybe,0.177,0.374,0.45,1,Medium propensity: higher income,175.0
+R1362,Maybe,0.255,0.295,0.45,1,Medium propensity: higher income,435.0
+R1363,Maybe,0.113,0.432,0.455,1,Medium propensity: higher income,190.0
+R1364,No,0.196,0.301,0.503,1,Medium propensity: higher income,160.0
+R1365,Maybe,0.038,0.166,0.795,1,Medium propensity: higher income,170.0
+R1366,No,0.141,0.177,0.683,2,Low propensity: lower income,80.0
+R1367,No,0.046,0.205,0.749,2,Low propensity: lower income,90.0
+R1368,No,0.112,0.184,0.704,2,Low propensity: lower income,128.061
+R1369,No,0.254,0.29,0.456,0,High propensity: high battery anxiety,156.018
+R1370,No,0.181,0.48,0.34,1,Medium propensity: higher income,265.0
+R1371,Maybe,0.23,0.476,0.294,0,High propensity: high battery anxiety,210.0
+R1372,No,0.177,0.338,0.485,1,Medium propensity: higher income,290.0
+R1373,No,0.014,0.077,0.909,2,Low propensity: lower income,105.0
+R1375,Maybe,0.33,0.422,0.248,0,High propensity: high battery anxiety,185.0
+R1376,Yes,0.49,0.352,0.158,0,High propensity: high battery anxiety,175.0
+R1377,Yes,0.538,0.362,0.1,0,High propensity: high battery anxiety,225.0
+R1379,Yes,0.333,0.489,0.178,0,High propensity: high battery anxiety,280.0
+R1380,No,0.077,0.243,0.68,2,Low propensity: lower income,110.0
+R1381,No,0.144,0.456,0.4,2,Low propensity: lower income,235.0
+R1382,No,0.067,0.173,0.76,2,Low propensity: lower income,150.0
+R1383,No,0.153,0.273,0.574,1,Medium propensity: higher income,95.0
+R1384,No,0.279,0.438,0.282,0,High propensity: high battery anxiety,125.0
+R1385,No,0.147,0.325,0.527,1,Medium propensity: higher income,200.0
+R1386,Yes,0.086,0.234,0.679,1,Medium propensity: higher income,170.0
+R1387,No,0.068,0.272,0.66,2,Low propensity: lower income,210.0
+R1388,No,0.066,0.17,0.763,2,Low propensity: lower income,115.0
+R1389,No,0.173,0.309,0.518,1,Medium propensity: higher income,415.0
+R1390,No,0.029,0.088,0.883,1,Medium propensity: higher income,175.0
+R1391,No,0.027,0.113,0.86,2,Low propensity: lower income,95.0
+R1392,Maybe,0.16,0.426,0.414,1,Medium propensity: higher income,185.0
+R1393,Yes,0.43,0.353,0.217,0,High propensity: high battery anxiety,160.0
+R1394,No,0.093,0.215,0.692,1,Medium propensity: higher income,500.0
+R1395,No,0.045,0.166,0.789,2,Low propensity: lower income,195.0
+R1396,No,0.086,0.209,0.705,2,Low propensity: lower income,195.0
+R1397,No,0.156,0.257,0.586,2,Low propensity: lower income,157.608
+R1398,No,0.071,0.278,0.651,2,Low propensity: lower income,145.0
+R1399,Maybe,0.207,0.404,0.389,1,Medium propensity: higher income,205.0
+R1400,Maybe,0.188,0.25,0.562,1,Medium propensity: higher income,250.0
+R1401,No,0.314,0.34,0.347,0,High propensity: high battery anxiety,115.0
+R1403,No,0.18,0.407,0.413,0,High propensity: high battery anxiety,195.0
+R1404,Maybe,0.343,0.386,0.271,0,High propensity: high battery anxiety,135.0
+R1405,Maybe,0.26,0.498,0.242,1,Medium propensity: higher income,330.0
+R1406,No,0.135,0.271,0.595,2,Low propensity: lower income,140.0
+R1407,Maybe,0.361,0.335,0.304,0,High propensity: high battery anxiety,195.0
+R1408,No,0.175,0.344,0.481,1,Medium propensity: higher income,220.0
+R1409,No,0.171,0.401,0.428,2,Low propensity: lower income,325.0
+R1410,Yes,0.422,0.409,0.169,1,Medium propensity: higher income,330.0
+R1411,No,0.027,0.137,0.837,2,Low propensity: lower income,105.0
+R1412,Maybe,0.287,0.491,0.222,0,High propensity: high battery anxiety,420.0
+R1413,No,0.04,0.181,0.78,2,Low propensity: lower income,85.0
+R1414,No,0.227,0.379,0.395,0,High propensity: high battery anxiety,160.0
+R1415,Maybe,0.252,0.463,0.284,0,High propensity: high battery anxiety,260.0
+R1416,No,0.115,0.278,0.607,2,Low propensity: lower income,125.0
+R1417,No,0.148,0.227,0.625,0,High propensity: high battery anxiety,125.0
+R1418,Maybe,0.253,0.4,0.346,1,Medium propensity: higher income,185.0
+R1419,No,0.271,0.335,0.394,1,Medium propensity: higher income,325.0
+R1420,No,0.172,0.432,0.396,2,Low propensity: lower income,130.0
+R1422,No,0.039,0.227,0.735,1,Medium propensity: higher income,250.0
+R1423,No,0.028,0.234,0.737,2,Low propensity: lower income,115.0
+R1424,No,0.053,0.156,0.791,2,Low propensity: lower income,160.0
+R1425,No,0.071,0.134,0.795,1,Medium propensity: higher income,230.0
+R1426,No,0.193,0.365,0.442,0,High propensity: high battery anxiety,201.881
+R1427,Maybe,0.213,0.388,0.399,0,High propensity: high battery anxiety,270.0
+R1428,No,0.105,0.362,0.533,2,Low propensity: lower income,160.0
+R1429,No,0.201,0.297,0.502,1,Medium propensity: higher income,410.0
+R1430,No,0.078,0.236,0.686,1,Medium propensity: higher income,255.0
+R1431,No,0.013,0.053,0.934,2,Low propensity: lower income,115.0
+R1433,No,0.1,0.168,0.732,1,Medium propensity: higher income,155.0
+R1434,No,0.02,0.081,0.899,2,Low propensity: lower income,70.0
+R1435,No,0.108,0.317,0.575,2,Low propensity: lower income,120.0
+R1436,No,0.052,0.11,0.838,2,Low propensity: lower income,125.0
+R1437,No,0.155,0.361,0.484,1,Medium propensity: higher income,165.0
+R1439,Maybe,0.171,0.332,0.497,2,Low propensity: lower income,227.439
+R1440,No,0.066,0.259,0.675,2,Low propensity: lower income,180.0
+R1441,Maybe,0.208,0.45,0.341,0,High propensity: high battery anxiety,200.0
+R1442,No,0.035,0.147,0.819,2,Low propensity: lower income,130.0
+R1443,No,0.1,0.188,0.712,0,High propensity: high battery anxiety,120.0
+R1444,No,0.117,0.191,0.692,1,Medium propensity: higher income,260.0
+R1445,No,0.05,0.192,0.758,2,Low propensity: lower income,155.0
+R1446,No,0.067,0.118,0.815,1,Medium propensity: higher income,125.0
+R1447,No,0.07,0.127,0.803,1,Medium propensity: higher income,165.0
+R1448,Maybe,0.161,0.448,0.39,1,Medium propensity: higher income,310.0
+R1450,No,0.108,0.32,0.572,1,Medium propensity: higher income,225.0
+R1451,No,0.435,0.349,0.216,0,High propensity: high battery anxiety,230.0
+R1452,No,0.122,0.229,0.649,2,Low propensity: lower income,170.0
+R1453,Yes,0.262,0.431,0.307,0,High propensity: high battery anxiety,390.0
+R1454,Maybe,0.04,0.212,0.748,2,Low propensity: lower income,180.0
+R1455,No,0.025,0.11,0.865,2,Low propensity: lower income,105.0
+R1456,No,0.121,0.369,0.511,1,Medium propensity: higher income,225.0
+R1457,No,0.081,0.205,0.714,2,Low propensity: lower income,145.0
+R1458,No,0.115,0.298,0.587,1,Medium propensity: higher income,155.0
+R1459,Maybe,0.18,0.442,0.378,1,Medium propensity: higher income,185.0
+R1460,No,0.022,0.137,0.841,2,Low propensity: lower income,120.0
+R1461,No,0.06,0.128,0.812,1,Medium propensity: higher income,160.0
+R1462,Maybe,0.179,0.274,0.547,2,Low propensity: lower income,140.0
+R1464,No,0.228,0.178,0.594,2,Low propensity: lower income,152.797
+R1465,No,0.091,0.117,0.793,2,Low propensity: lower income,240.0
+R1466,No,0.098,0.207,0.696,2,Low propensity: lower income,125.0
+R1467,No,0.081,0.268,0.651,2,Low propensity: lower income,100.0
+R1468,No,0.096,0.297,0.607,2,Low propensity: lower income,190.0
+R1469,No,0.045,0.158,0.796,2,Low propensity: lower income,95.0
+R1470,No,0.106,0.285,0.609,1,Medium propensity: higher income,150.0
+R1471,No,0.114,0.134,0.752,1,Medium propensity: higher income,315.0
+R1472,No,0.133,0.44,0.427,1,Medium propensity: higher income,185.0
+R1473,No,0.119,0.27,0.61,0,High propensity: high battery anxiety,55.0
+R1474,No,0.117,0.269,0.614,0,High propensity: high battery anxiety,175.0
+R1475,No,0.081,0.231,0.688,1,Medium propensity: higher income,221.341
+R1476,No,0.14,0.516,0.344,1,Medium propensity: higher income,220.0
+R1477,No,0.072,0.194,0.734,2,Low propensity: lower income,166.178
+R1479,No,0.22,0.256,0.525,1,Medium propensity: higher income,235.0
+R1480,Maybe,0.131,0.373,0.496,0,High propensity: high battery anxiety,205.0
+R1481,No,0.052,0.219,0.729,2,Low propensity: lower income,140.0
+R1482,No,0.044,0.155,0.801,1,Medium propensity: higher income,260.0
+R1483,Maybe,0.311,0.372,0.317,0,High propensity: high battery anxiety,140.0
+R1484,No,0.212,0.311,0.477,0,High propensity: high battery anxiety,135.0
+R1485,No,0.087,0.276,0.637,1,Medium propensity: higher income,200.0
+R1486,No,0.074,0.342,0.584,2,Low propensity: lower income,200.0
+R1487,No,0.064,0.233,0.703,2,Low propensity: lower income,125.0
+R1488,No,0.212,0.357,0.431,0,High propensity: high battery anxiety,160.0
+R1489,Maybe,0.119,0.345,0.536,1,Medium propensity: higher income,375.0
+R1490,No,0.142,0.32,0.538,0,High propensity: high battery anxiety,195.0
+R1491,Maybe,0.342,0.347,0.311,0,High propensity: high battery anxiety,255.0
+R1492,Maybe,0.28,0.411,0.309,0,High propensity: high battery anxiety,315.0
+R1493,No,0.099,0.287,0.614,1,Medium propensity: higher income,200.0
+R1494,No,0.216,0.462,0.322,1,Medium propensity: higher income,500.0
+R1496,No,0.053,0.343,0.604,2,Low propensity: lower income,115.0
+R1497,Maybe,0.115,0.476,0.409,0,High propensity: high battery anxiety,150.0
+R1498,No,0.114,0.33,0.556,2,Low propensity: lower income,235.0
+R1499,Maybe,0.164,0.3,0.536,1,Medium propensity: higher income,255.0
+R1500,Maybe,0.346,0.328,0.326,0,High propensity: high battery anxiety,190.0

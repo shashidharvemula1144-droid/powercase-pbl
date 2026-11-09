@@ -1,0 +1,5 @@
+model,test_accuracy,test_macro_f1,test_roc_auc,cv_accuracy,cv_macro_f1,cv_f1_std
+Logistic Regression,0.719,0.628,0.853,0.678,0.58,0.022
+Decision Tree,0.542,0.464,0.703,0.599,0.522,0.02
+Random Forest,0.729,0.581,0.851,0.733,0.582,0.04
+Gradient Boosting,0.729,0.609,0.86,0.736,0.581,0.04

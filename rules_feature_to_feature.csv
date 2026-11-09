@@ -1,0 +1,51 @@
+if_customer,then_also,support,confidence,lift
+"High capacity (4,000 mAh+) + LED battery indicator",Fast charging,0.087,0.665,1.48
+Slim design + Eco-friendly material,Wireless / MagSafe pass-through,0.079,0.588,1.47
+Card slot or kickstand + 2-year warranty,Drop protection,0.058,0.638,1.46
+Fast charging + LED battery indicator,"High capacity (4,000 mAh+)",0.087,0.654,1.45
+"High capacity (4,000 mAh+) + Card slot or kickstand",Drop protection,0.064,0.626,1.43
+"High capacity (4,000 mAh+) + 2-year warranty",Fast charging,0.092,0.639,1.42
+LED battery indicator + 2-year warranty,Fast charging,0.047,0.632,1.4
+Wireless / MagSafe pass-through + 2-year warranty,Drop protection,0.076,0.602,1.38
+Wireless / MagSafe pass-through + Card slot or kickstand,Drop protection,0.058,0.601,1.37
+Fast charging + Eco-friendly material,"High capacity (4,000 mAh+)",0.049,0.612,1.36
+LED battery indicator + 2-year warranty,Drop protection,0.044,0.594,1.36
+Fast charging + 2-year warranty,"High capacity (4,000 mAh+)",0.092,0.605,1.34
+Drop protection + LED battery indicator,Fast charging,0.059,0.599,1.33
+Slim design + LED battery indicator,Fast charging,0.081,0.594,1.32
+Fast charging + Eco-friendly material,Wireless / MagSafe pass-through,0.042,0.526,1.32
+Drop protection + Eco-friendly material,Wireless / MagSafe pass-through,0.042,0.526,1.32
+Wireless / MagSafe pass-through + Eco-friendly material,Slim design,0.079,0.781,1.31
+"Slim design + High capacity (4,000 mAh+)",Fast charging,0.158,0.592,1.31
+Wireless / MagSafe pass-through + LED battery indicator,Fast charging,0.053,0.589,1.31
+"High capacity (4,000 mAh+) + Eco-friendly material",Wireless / MagSafe pass-through,0.049,0.522,1.31
+Card slot or kickstand,Drop protection,0.132,0.571,1.3
+Slim design + Fast charging,"High capacity (4,000 mAh+)",0.158,0.58,1.29
+Slim design + LED battery indicator,"High capacity (4,000 mAh+)",0.079,0.579,1.29
+Slim design + Card slot or kickstand,Drop protection,0.082,0.565,1.29
+Drop protection + LED battery indicator,"High capacity (4,000 mAh+)",0.057,0.577,1.28
+LED battery indicator + 2-year warranty,"High capacity (4,000 mAh+)",0.042,0.575,1.28
+Eco-friendly material,Wireless / MagSafe pass-through,0.101,0.51,1.28
+Fast charging + 2-year warranty,Drop protection,0.085,0.555,1.27
+"High capacity (4,000 mAh+) + 2-year warranty",Drop protection,0.08,0.553,1.26
+LED battery indicator,Fast charging,0.133,0.565,1.25
+Fast charging + Card slot or kickstand,"High capacity (4,000 mAh+)",0.058,0.565,1.25
+"High capacity (4,000 mAh+) + Card slot or kickstand",Fast charging,0.058,0.565,1.25
+Slim design + 2-year warranty,Drop protection,0.099,0.546,1.25
+"High capacity (4,000 mAh+)",Fast charging,0.251,0.559,1.24
+Fast charging,"High capacity (4,000 mAh+)",0.251,0.558,1.24
+LED battery indicator,"High capacity (4,000 mAh+)",0.131,0.556,1.24
+2-year warranty,Drop protection,0.167,0.543,1.24
+Fast charging + Wireless / MagSafe pass-through,"High capacity (4,000 mAh+)",0.097,0.553,1.23
+"High capacity (4,000 mAh+) + Wireless / MagSafe pass-through",Fast charging,0.097,0.553,1.23
+Fast charging + Card slot or kickstand,Drop protection,0.055,0.537,1.23
+Wireless / MagSafe pass-through + Card slot or kickstand,Slim design,0.069,0.725,1.22
+Wireless / MagSafe pass-through + LED battery indicator,"High capacity (4,000 mAh+)",0.049,0.55,1.22
+"High capacity (4,000 mAh+) + Wireless / MagSafe pass-through",Slim design,0.126,0.715,1.2
+Fast charging + Drop protection,"High capacity (4,000 mAh+)",0.103,0.538,1.2
+"High capacity (4,000 mAh+) + Drop protection",Fast charging,0.103,0.532,1.18
+"High capacity (4,000 mAh+) + Eco-friendly material",Fast charging,0.049,0.53,1.18
+Fast charging + Wireless / MagSafe pass-through,Slim design,0.122,0.696,1.17
+Drop protection + Eco-friendly material,Slim design,0.056,0.69,1.16
+Fast charging + Card slot or kickstand,Slim design,0.07,0.687,1.16
+Wireless / MagSafe pass-through + 2-year warranty,Fast charging,0.066,0.525,1.16

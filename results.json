@@ -1,0 +1,1530 @@
+{
+ "n": 1440,
+ "intent_share": {
+  "No": 65.2,
+  "Maybe": 23.5,
+  "Yes": 11.3
+ },
+ "wtp_median": 180.0,
+ "wtp_mean": 193.9,
+ "pct_carry_powerbank": 36.9,
+ "pct_anxiety_4_5": 7.9,
+ "pct_low_batt_3plus": 38.1,
+ "problem_prevalence": {
+  "Phone died while navigating": 19.1,
+  "Phone died before end of workday": 38.8,
+  "No charger or outlet available": 30.6,
+  "Forgot or lost power bank": 19.0,
+  "Power bank and cables too bulky": 16.7,
+  "Battery drains while travelling": 26.5,
+  "Missed important call or OTP": 11.7
+ },
+ "feature_wishes": {
+  "Slim design": 59.4,
+  "High capacity (4,000 mAh+)": 45.0,
+  "Fast charging": 45.1,
+  "Wireless / MagSafe pass-through": 39.9,
+  "Drop protection": 43.8,
+  "LED battery indicator": 23.5,
+  "Card slot or kickstand": 23.1,
+  "Eco-friendly material": 19.9,
+  "2-year warranty": 30.7
+ },
+ "corr_with_interest": {
+  "battery_anxiety": 0.46,
+  "low_battery_per_week": 0.31,
+  "screen_hrs": 0.31,
+  "max_price_aed": 0.28,
+  "challenge_count": 0.25,
+  "monthly_income_aed": 0.2,
+  "hrs_away_from_charger": 0.12,
+  "case_spend_aed": 0.06,
+  "brand_importance": 0.06,
+  "age": -0.01,
+  "price_sensitivity": -0.31
+ },
+ "hypothesis_tests": {
+  "phone_brand": {
+   "chi2": 34.3,
+   "p_value": 6.459953408371397e-07,
+   "cramers_v": 0.109,
+   "significant": true
+  },
+  "occupation": {
+   "chi2": 45.1,
+   "p_value": 4.465068228535059e-08,
+   "cramers_v": 0.125,
+   "significant": true
+  },
+  "age_group": {
+   "chi2": 35.9,
+   "p_value": 2.9403779063949545e-06,
+   "cramers_v": 0.112,
+   "significant": true
+  },
+  "income_band": {
+   "chi2": 54.6,
+   "p_value": 5.609602966575371e-10,
+   "cramers_v": 0.138,
+   "significant": true
+  },
+  "emirate": {
+   "chi2": 14.6,
+   "p_value": 0.06635001032412247,
+   "cramers_v": 0.071,
+   "significant": false
+  },
+  "gender": {
+   "chi2": 0.8,
+   "p_value": 0.6648151889138071,
+   "cramers_v": 0.024,
+   "significant": false
+  },
+  "battery_anxiety (Kruskal-Wallis)": {
+   "H": 327.1,
+   "p_value": 9.216388177332768e-72,
+   "significant": true
+  },
+  "income vs max price (Spearman)": {
+   "rho": 0.72,
+   "p_value": 1.2441081456628653e-219,
+   "significant": true
+  }
+ },
+ "diagnostic_groups": {
+  "battery_anxiety": [
+   {
+    "battery_anxiety": 1,
+    "respondents": 382,
+    "pct_yes": 1.8,
+    "pct_interested": 8.1,
+    "median_wtp": 170.0
+   },
+   {
+    "battery_anxiety": 2,
+    "respondents": 574,
+    "pct_yes": 5.6,
+    "pct_interested": 29.4,
+    "median_wtp": 185.0
+   },
+   {
+    "battery_anxiety": 3,
+    "respondents": 370,
+    "pct_yes": 18.4,
+    "pct_interested": 56.2,
+    "median_wtp": 180.0
+   },
+   {
+    "battery_anxiety": 4,
+    "respondents": 106,
+    "pct_yes": 46.2,
+    "pct_interested": 81.1,
+    "median_wtp": 190.0
+   },
+   {
+    "battery_anxiety": 5,
+    "respondents": 8,
+    "pct_yes": 87.5,
+    "pct_interested": 87.5,
+    "median_wtp": 195.0
+   }
+  ],
+  "phone_brand": [
+   {
+    "phone_brand": "Other Android",
+    "respondents": 217,
+    "pct_yes": 10.6,
+    "pct_interested": 31.3,
+    "median_wtp": 155.0
+   },
+   {
+    "phone_brand": "Samsung",
+    "respondents": 491,
+    "pct_yes": 8.4,
+    "pct_interested": 25.9,
+    "median_wtp": 150.0
+   },
+   {
+    "phone_brand": "iPhone",
+    "respondents": 732,
+    "pct_yes": 13.5,
+    "pct_interested": 41.8,
+    "median_wtp": 210.0
+   }
+  ],
+  "age_group": [
+   {
+    "age_group": "18-24",
+    "respondents": 419,
+    "pct_yes": 8.1,
+    "pct_interested": 31.3,
+    "median_wtp": 135.0
+   },
+   {
+    "age_group": "25-34",
+    "respondents": 456,
+    "pct_yes": 12.5,
+    "pct_interested": 36.8,
+    "median_wtp": 195.0
+   },
+   {
+    "age_group": "35-44",
+    "respondents": 419,
+    "pct_yes": 15.5,
+    "pct_interested": 42.0,
+    "median_wtp": 200.0
+   },
+   {
+    "age_group": "45+",
+    "respondents": 146,
+    "pct_yes": 4.8,
+    "pct_interested": 17.8,
+    "median_wtp": 195.0
+   }
+  ],
+  "income_band": [
+   {
+    "income_band": "10k-20k",
+    "respondents": 487,
+    "pct_yes": 14.4,
+    "pct_interested": 41.3,
+    "median_wtp": 210.0
+   },
+   {
+    "income_band": "20k+",
+    "respondents": 166,
+    "pct_yes": 17.5,
+    "pct_interested": 50.6,
+    "median_wtp": 300.0
+   },
+   {
+    "income_band": "5k-10k",
+    "respondents": 361,
+    "pct_yes": 10.5,
+    "pct_interested": 32.1,
+    "median_wtp": 170.0
+   },
+   {
+    "income_band": "Under 5k",
+    "respondents": 426,
+    "pct_yes": 6.1,
+    "pct_interested": 23.5,
+    "median_wtp": 120.0
+   }
+  ],
+  "occupation": [
+   {
+    "occupation": "Employee",
+    "respondents": 812,
+    "pct_yes": 14.0,
+    "pct_interested": 41.5,
+    "median_wtp": 195.0
+   },
+   {
+    "occupation": "Other",
+    "respondents": 107,
+    "pct_yes": 8.4,
+    "pct_interested": 21.5,
+    "median_wtp": 160.0
+   },
+   {
+    "occupation": "Self-employed",
+    "respondents": 205,
+    "pct_yes": 11.2,
+    "pct_interested": 32.2,
+    "median_wtp": 212.5
+   },
+   {
+    "occupation": "Student",
+    "respondents": 316,
+    "pct_yes": 5.4,
+    "pct_interested": 23.7,
+    "median_wtp": 120.0
+   }
+  ],
+  "challenge_count": [
+   {
+    "challenge_count": 0,
+    "respondents": 222,
+    "pct_yes": 1.4,
+    "pct_interested": 12.6,
+    "median_wtp": 160.0
+   },
+   {
+    "challenge_count": 1,
+    "respondents": 488,
+    "pct_yes": 6.4,
+    "pct_interested": 32.6,
+    "median_wtp": 177.5
+   },
+   {
+    "challenge_count": 2,
+    "respondents": 430,
+    "pct_yes": 13.7,
+    "pct_interested": 36.3,
+    "median_wtp": 185.0
+   },
+   {
+    "challenge_count": 3,
+    "respondents": 221,
+    "pct_yes": 20.8,
+    "pct_interested": 49.3,
+    "median_wtp": 185.0
+   },
+   {
+    "challenge_count": 4,
+    "respondents": 69,
+    "pct_yes": 29.0,
+    "pct_interested": 60.9,
+    "median_wtp": 175.0
+   },
+   {
+    "challenge_count": 5,
+    "respondents": 10,
+    "pct_yes": 40.0,
+    "pct_interested": 70.0,
+    "median_wtp": 250.0
+   }
+  ],
+  "price_sensitivity": [
+   {
+    "price_sensitivity": 1,
+    "respondents": 81,
+    "pct_yes": 34.6,
+    "pct_interested": 65.4,
+    "median_wtp": 280.0
+   },
+   {
+    "price_sensitivity": 2,
+    "respondents": 273,
+    "pct_yes": 17.2,
+    "pct_interested": 50.5,
+    "median_wtp": 220.0
+   },
+   {
+    "price_sensitivity": 3,
+    "respondents": 468,
+    "pct_yes": 11.3,
+    "pct_interested": 40.2,
+    "median_wtp": 190.0
+   },
+   {
+    "price_sensitivity": 4,
+    "respondents": 433,
+    "pct_yes": 7.2,
+    "pct_interested": 23.8,
+    "median_wtp": 150.0
+   },
+   {
+    "price_sensitivity": 5,
+    "respondents": 185,
+    "pct_yes": 2.2,
+    "pct_interested": 10.3,
+    "median_wtp": 120.0
+   }
+  ]
+ },
+ "classification": {
+  "models": [
+   {
+    "model": "Logistic Regression",
+    "test_accuracy": 0.719,
+    "test_macro_f1": 0.628,
+    "test_roc_auc": 0.853,
+    "cv_accuracy": 0.678,
+    "cv_macro_f1": 0.58,
+    "cv_f1_std": 0.022
+   },
+   {
+    "model": "Decision Tree",
+    "test_accuracy": 0.542,
+    "test_macro_f1": 0.464,
+    "test_roc_auc": 0.703,
+    "cv_accuracy": 0.599,
+    "cv_macro_f1": 0.522,
+    "cv_f1_std": 0.02
+   },
+   {
+    "model": "Random Forest",
+    "test_accuracy": 0.729,
+    "test_macro_f1": 0.581,
+    "test_roc_auc": 0.851,
+    "cv_accuracy": 0.733,
+    "cv_macro_f1": 0.582,
+    "cv_f1_std": 0.04
+   },
+   {
+    "model": "Gradient Boosting",
+    "test_accuracy": 0.729,
+    "test_macro_f1": 0.609,
+    "test_roc_auc": 0.86,
+    "cv_accuracy": 0.736,
+    "cv_macro_f1": 0.581,
+    "cv_f1_std": 0.04
+   }
+  ],
+  "best_model": "Random Forest",
+  "baseline_accuracy": 0.653,
+  "confusion_matrix": [
+   [
+    171,
+    14,
+    3
+   ],
+   [
+    34,
+    27,
+    7
+   ],
+   [
+    7,
+    13,
+    12
+   ]
+  ],
+  "labels": [
+   "No",
+   "Maybe",
+   "Yes"
+  ],
+  "report": {
+   "No": {
+    "precision": 0.807,
+    "recall": 0.91,
+    "f1-score": 0.855,
+    "support": 188.0
+   },
+   "Maybe": {
+    "precision": 0.5,
+    "recall": 0.397,
+    "f1-score": 0.443,
+    "support": 68.0
+   },
+   "Yes": {
+    "precision": 0.545,
+    "recall": 0.375,
+    "f1-score": 0.444,
+    "support": 32.0
+   },
+   "macro avg": {
+    "precision": 0.617,
+    "recall": 0.561,
+    "f1-score": 0.581,
+    "support": 288.0
+   },
+   "weighted avg": {
+    "precision": 0.705,
+    "recall": 0.729,
+    "f1-score": 0.712,
+    "support": 288.0
+   }
+  },
+  "why_these_columns": "All questions answered before the purchase question, except max price and pre-order (not available for a new prospect).",
+  "importance": {
+   "battery_anxiety": 0.1454,
+   "price_sensitivity": 0.0473,
+   "screen_hrs": 0.0437,
+   "challenge_count": 0.0408,
+   "Missed important call or OTP": 0.0128,
+   "emirate": 0.0096,
+   "High capacity (4,000 mAh+)": 0.0091,
+   "low_battery_per_week": 0.0088,
+   "accessories_per_year": 0.0081,
+   "case_spend_aed": 0.0075,
+   "uses_case_flag": 0.0071,
+   "gender": 0.0057
+  },
+  "segment_accuracy": {
+   "phone_brand": {
+    "Other Android": {
+     "accuracy": 0.747,
+     "n": 217
+    },
+    "Samsung": {
+     "accuracy": 0.798,
+     "n": 491
+    },
+    "iPhone": {
+     "accuracy": 0.686,
+     "n": 732
+    }
+   },
+   "age_group": {
+    "18-24": {
+     "accuracy": 0.742,
+     "n": 419
+    },
+    "25-34": {
+     "accuracy": 0.697,
+     "n": 456
+    },
+    "35-44": {
+     "accuracy": 0.726,
+     "n": 419
+    },
+    "45+": {
+     "accuracy": 0.842,
+     "n": 146
+    }
+   },
+   "occupation": {
+    "Employee": {
+     "accuracy": 0.692,
+     "n": 812
+    },
+    "Other": {
+     "accuracy": 0.804,
+     "n": 107
+    },
+    "Self-employed": {
+     "accuracy": 0.771,
+     "n": 205
+    },
+    "Student": {
+     "accuracy": 0.791,
+     "n": 316
+    }
+   },
+   "income_band": {
+    "10k-20k": {
+     "accuracy": 0.715,
+     "n": 487
+    },
+    "20k+": {
+     "accuracy": 0.651,
+     "n": 166
+    },
+    "5k-10k": {
+     "accuracy": 0.742,
+     "n": 361
+    },
+    "Under 5k": {
+     "accuracy": 0.779,
+     "n": 426
+    }
+   }
+  },
+  "noise_robustness": [
+   {
+    "extra_label_noise": 0.0,
+    "test_accuracy": 0.729,
+    "test_macro_f1": 0.581
+   },
+   {
+    "extra_label_noise": 0.05,
+    "test_accuracy": 0.712,
+    "test_macro_f1": 0.562
+   },
+   {
+    "extra_label_noise": 0.1,
+    "test_accuracy": 0.712,
+    "test_macro_f1": 0.591
+   },
+   {
+    "extra_label_noise": 0.2,
+    "test_accuracy": 0.715,
+    "test_macro_f1": 0.563
+   },
+   {
+    "extra_label_noise": 0.3,
+    "test_accuracy": 0.701,
+    "test_macro_f1": 0.549
+   }
+  ]
+ },
+ "regression": {
+  "models": [
+   {
+    "model": "Ridge Regression",
+    "test_r2": 0.629,
+    "test_mae_aed": 40.197,
+    "test_rmse_aed": 52.764,
+    "cv_r2": 0.613
+   },
+   {
+    "model": "Random Forest",
+    "test_r2": 0.624,
+    "test_mae_aed": 39.98,
+    "test_rmse_aed": 53.108,
+    "cv_r2": 0.577
+   },
+   {
+    "model": "Gradient Boosting",
+    "test_r2": 0.637,
+    "test_mae_aed": 38.951,
+    "test_rmse_aed": 52.191,
+    "cv_r2": 0.603
+   }
+  ],
+  "best_model": "Ridge Regression",
+  "baseline_mae_aed": 66.6,
+  "importance": {
+   "monthly_income_aed": 0.3744,
+   "case_spend_aed": 0.1035,
+   "price_sensitivity": 0.0927,
+   "phone_brand": 0.0712,
+   "battery_anxiety": 0.0183,
+   "brand_importance": 0.0149,
+   "occupation": 0.0058,
+   "Power bank and cables too bulky": 0.0029,
+   "screen_hrs": 0.0019,
+   "2-year warranty": 0.0012
+  },
+  "mae_by_income_band": {
+   "10k-20k": 44.9,
+   "20k+": 61.5,
+   "5k-10k": 33.8,
+   "Under 5k": 28.5
+  },
+  "n_train": 1099,
+  "n_test": 275
+ },
+ "clustering": {
+  "k_chosen": 3,
+  "k_range": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "silhouette": [
+   0.128,
+   0.12,
+   0.117,
+   0.115,
+   0.106,
+   0.107
+  ],
+  "inertia": [
+   12435.8,
+   11160.0,
+   10435.0,
+   9886.7,
+   9409.2,
+   9037.2
+  ],
+  "profiles": [
+   {
+    "cluster": 0,
+    "size": 374,
+    "pct_yes": 0.313,
+    "pct_interested": 0.717,
+    "median_wtp": 190.0,
+    "mean_age": 31.43,
+    "median_income": 10100.0,
+    "screen_hrs": 8.22,
+    "low_battery_per_week": 3.631,
+    "battery_anxiety": 3.0,
+    "hrs_away": 5.518,
+    "price_sensitivity": 3.102,
+    "pct_iphone": 0.532,
+    "pct_powerbank": 0.652,
+    "problems": 2.337,
+    "share": 0.26,
+    "tier": "High",
+    "name": "High propensity: high battery anxiety"
+   },
+   {
+    "cluster": 1,
+    "size": 542,
+    "pct_yes": 0.07,
+    "pct_interested": 0.31,
+    "median_wtp": 220.0,
+    "mean_age": 35.533,
+    "median_income": 13300.0,
+    "screen_hrs": 5.001,
+    "low_battery_per_week": 1.531,
+    "battery_anxiety": 1.734,
+    "hrs_away": 4.872,
+    "price_sensitivity": 2.635,
+    "pct_iphone": 0.624,
+    "pct_powerbank": 0.258,
+    "problems": 1.577,
+    "share": 0.376,
+    "tier": "Medium",
+    "name": "Medium propensity: higher income"
+   },
+   {
+    "cluster": 2,
+    "size": 524,
+    "pct_yes": 0.015,
+    "pct_interested": 0.124,
+    "median_wtp": 130.0,
+    "mean_age": 28.769,
+    "median_income": 3750.0,
+    "screen_hrs": 6.081,
+    "low_battery_per_week": 1.87,
+    "battery_anxiety": 1.989,
+    "hrs_away": 4.703,
+    "price_sensitivity": 4.008,
+    "pct_iphone": 0.372,
+    "pct_powerbank": 0.281,
+    "problems": 1.16,
+    "share": 0.364,
+    "tier": "Low",
+    "name": "Low propensity: lower income"
+   }
+  ],
+  "centroids_z": [
+   {
+    "screen_hrs": 0.82,
+    "low_battery_per_week": 0.87,
+    "battery_anxiety": 0.92,
+    "hrs_away_from_charger": 0.24,
+    "log_income": 0.1,
+    "price_sensitivity": -0.14,
+    "case_spend_aed": -0.01,
+    "accessories_per_year": 0.08,
+    "challenge_count": 0.65,
+    "carries_power_bank_flag": 0.59,
+    "cluster": 0
+   },
+   {
+    "screen_hrs": -0.5,
+    "low_battery_per_week": -0.41,
+    "battery_anxiety": -0.46,
+    "hrs_away_from_charger": -0.05,
+    "log_income": 0.7,
+    "price_sensitivity": -0.58,
+    "case_spend_aed": 0.4,
+    "accessories_per_year": 0.53,
+    "challenge_count": -0.04,
+    "carries_power_bank_flag": -0.23,
+    "cluster": 1
+   },
+   {
+    "screen_hrs": -0.06,
+    "low_battery_per_week": -0.2,
+    "battery_anxiety": -0.18,
+    "hrs_away_from_charger": -0.12,
+    "log_income": -0.79,
+    "price_sensitivity": 0.7,
+    "case_spend_aed": -0.41,
+    "accessories_per_year": -0.6,
+    "challenge_count": -0.42,
+    "carries_power_bank_flag": -0.18,
+    "cluster": 2
+   }
+  ],
+  "features": [
+   "screen_hrs",
+   "low_battery_per_week",
+   "battery_anxiety",
+   "hrs_away_from_charger",
+   "log_income",
+   "price_sensitivity",
+   "case_spend_aed",
+   "accessories_per_year",
+   "challenge_count",
+   "carries_power_bank_flag"
+  ],
+  "reason": "k was chosen as the best silhouette among 3 to 6 clusters, because the business needs at least a high, medium and low group."
+ },
+ "association": {
+  "n_itemsets": 280,
+  "min_support": 0.04,
+  "problem_to_feature": [
+   {
+    "if_customer": "No charger or outlet available + Battery drains while travelling",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.05,
+    "confidence": 0.655,
+    "lift": 1.45
+   },
+   {
+    "if_customer": "Phone died before end of workday + Battery drains while travelling",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.061,
+    "confidence": 0.62,
+    "lift": 1.38
+   },
+   {
+    "if_customer": "Missed important call or OTP",
+    "then_also": "Fast charging",
+    "support": 0.071,
+    "confidence": 0.607,
+    "lift": 1.35
+   },
+   {
+    "if_customer": "Phone died while navigating + Phone died before end of workday",
+    "then_also": "Drop protection",
+    "support": 0.047,
+    "confidence": 0.567,
+    "lift": 1.3
+   },
+   {
+    "if_customer": "Power bank and cables too bulky",
+    "then_also": "Slim design",
+    "support": 0.127,
+    "confidence": 0.762,
+    "lift": 1.28
+   },
+   {
+    "if_customer": "Forgot or lost power bank + Power bank and cables too bulky",
+    "then_also": "Slim design",
+    "support": 0.042,
+    "confidence": 0.759,
+    "lift": 1.28
+   },
+   {
+    "if_customer": "Phone died before end of workday + Power bank and cables too bulky",
+    "then_also": "Slim design",
+    "support": 0.051,
+    "confidence": 0.753,
+    "lift": 1.27
+   },
+   {
+    "if_customer": "Battery drains while travelling",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.151,
+    "confidence": 0.571,
+    "lift": 1.27
+   },
+   {
+    "if_customer": "Phone died before end of workday + No charger or outlet available",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.069,
+    "confidence": 0.559,
+    "lift": 1.24
+   },
+   {
+    "if_customer": "No charger or outlet available + Battery drains while travelling",
+    "then_also": "Fast charging",
+    "support": 0.042,
+    "confidence": 0.555,
+    "lift": 1.23
+   },
+   {
+    "if_customer": "Phone died while navigating",
+    "then_also": "Drop protection",
+    "support": 0.101,
+    "confidence": 0.527,
+    "lift": 1.21
+   },
+   {
+    "if_customer": "No charger or outlet available",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.163,
+    "confidence": 0.533,
+    "lift": 1.18
+   }
+  ],
+  "feature_to_feature": [
+   {
+    "if_customer": "High capacity (4,000 mAh+) + LED battery indicator",
+    "then_also": "Fast charging",
+    "support": 0.087,
+    "confidence": 0.665,
+    "lift": 1.48
+   },
+   {
+    "if_customer": "Slim design + Eco-friendly material",
+    "then_also": "Wireless / MagSafe pass-through",
+    "support": 0.079,
+    "confidence": 0.588,
+    "lift": 1.47
+   },
+   {
+    "if_customer": "Card slot or kickstand + 2-year warranty",
+    "then_also": "Drop protection",
+    "support": 0.058,
+    "confidence": 0.638,
+    "lift": 1.46
+   },
+   {
+    "if_customer": "Fast charging + LED battery indicator",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.087,
+    "confidence": 0.654,
+    "lift": 1.45
+   },
+   {
+    "if_customer": "High capacity (4,000 mAh+) + Card slot or kickstand",
+    "then_also": "Drop protection",
+    "support": 0.064,
+    "confidence": 0.626,
+    "lift": 1.43
+   },
+   {
+    "if_customer": "High capacity (4,000 mAh+) + 2-year warranty",
+    "then_also": "Fast charging",
+    "support": 0.092,
+    "confidence": 0.639,
+    "lift": 1.42
+   },
+   {
+    "if_customer": "LED battery indicator + 2-year warranty",
+    "then_also": "Fast charging",
+    "support": 0.047,
+    "confidence": 0.632,
+    "lift": 1.4
+   },
+   {
+    "if_customer": "Wireless / MagSafe pass-through + 2-year warranty",
+    "then_also": "Drop protection",
+    "support": 0.076,
+    "confidence": 0.602,
+    "lift": 1.38
+   },
+   {
+    "if_customer": "Wireless / MagSafe pass-through + Card slot or kickstand",
+    "then_also": "Drop protection",
+    "support": 0.058,
+    "confidence": 0.601,
+    "lift": 1.37
+   },
+   {
+    "if_customer": "Fast charging + Eco-friendly material",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.049,
+    "confidence": 0.612,
+    "lift": 1.36
+   },
+   {
+    "if_customer": "LED battery indicator + 2-year warranty",
+    "then_also": "Drop protection",
+    "support": 0.044,
+    "confidence": 0.594,
+    "lift": 1.36
+   },
+   {
+    "if_customer": "Fast charging + 2-year warranty",
+    "then_also": "High capacity (4,000 mAh+)",
+    "support": 0.092,
+    "confidence": 0.605,
+    "lift": 1.34
+   }
+  ],
+  "problem_to_problem": [],
+  "roadmap": {
+   "Phase 1 (launch)": [
+    {
+     "feature": "Slim design",
+     "wanted_by_interested_pct": 64.1,
+     "also_wanted_given_phase1_pct": 100.0
+    },
+    {
+     "feature": "Fast charging",
+     "wanted_by_interested_pct": 53.5,
+     "also_wanted_given_phase1_pct": 100.0
+    },
+    {
+     "feature": "High capacity (4,000 mAh+)",
+     "wanted_by_interested_pct": 52.7,
+     "also_wanted_given_phase1_pct": 100.0
+    }
+   ],
+   "Phase 2 (+3 to 6 months)": [
+    {
+     "feature": "Wireless / MagSafe pass-through",
+     "wanted_by_interested_pct": 47.1,
+     "also_wanted_given_phase1_pct": 51.3
+    },
+    {
+     "feature": "Drop protection",
+     "wanted_by_interested_pct": 46.1,
+     "also_wanted_given_phase1_pct": 47.1
+    },
+    {
+     "feature": "2-year warranty",
+     "wanted_by_interested_pct": 33.3,
+     "also_wanted_given_phase1_pct": 42.9
+    }
+   ],
+   "Phase 3 (later)": [
+    {
+     "feature": "Card slot or kickstand",
+     "wanted_by_interested_pct": 27.9,
+     "also_wanted_given_phase1_pct": 33.6
+    },
+    {
+     "feature": "LED battery indicator",
+     "wanted_by_interested_pct": 27.7,
+     "also_wanted_given_phase1_pct": 36.1
+    },
+    {
+     "feature": "Eco-friendly material",
+     "wanted_by_interested_pct": 21.2,
+     "also_wanted_given_phase1_pct": 21.0
+    }
+   ]
+  },
+  "phase1_group_size": 119,
+  "columns_used": "Only the 7 problem columns (ch_*) and 9 feature columns (ft_*), not the other survey questions."
+ },
+ "assumptions": {
+  "smartphone_users": 7460000,
+  "target_age_share": 0.627,
+  "model_coverage": 0.35,
+  "vat": 0.05,
+  "landed_cost": 51.0,
+  "platform_fee": 0.18,
+  "fulfillment": 10.0,
+  "returns_pct": 0.08,
+  "w_yes": 0.7,
+  "w_maybe": 0.2,
+  "one_off": 105000,
+  "fixed_year": 24000,
+  "growth": [
+   1.0,
+   1.5,
+   1.95
+  ],
+  "exposure": 0.03,
+  "ad_cost_per_exposure": 2.0,
+  "targeting_premium": 1.2,
+  "survey_to_market": 0.5,
+  "targeting_accuracy": 0.5
+ },
+ "price_curve": [
+  {
+   "price": 99,
+   "conversion_pct": 6.19,
+   "units_y1": 3039,
+   "cm_unit": -23.6,
+   "cum_y3": -495489,
+   "breakeven_month": null
+  },
+  {
+   "price": 109,
+   "conversion_pct": 6.11,
+   "units_y1": 3000,
+   "cm_unit": -16.9,
+   "cum_y3": -402946,
+   "breakeven_month": null
+  },
+  {
+   "price": 119,
+   "conversion_pct": 6.02,
+   "units_y1": 2957,
+   "cm_unit": -10.4,
+   "cum_y3": -313210,
+   "breakeven_month": null
+  },
+  {
+   "price": 129,
+   "conversion_pct": 5.89,
+   "units_y1": 2894,
+   "cm_unit": -4.0,
+   "cum_y3": -228872,
+   "breakeven_month": null
+  },
+  {
+   "price": 139,
+   "conversion_pct": 5.67,
+   "units_y1": 2785,
+   "cm_unit": 1.7,
+   "cum_y3": -156065,
+   "breakeven_month": null
+  },
+  {
+   "price": 149,
+   "conversion_pct": 5.49,
+   "units_y1": 2694,
+   "cm_unit": 7.6,
+   "cum_y3": -86429,
+   "breakeven_month": null
+  },
+  {
+   "price": 159,
+   "conversion_pct": 5.11,
+   "units_y1": 2512,
+   "cm_unit": 12.0,
+   "cum_y3": -43386,
+   "breakeven_month": null
+  },
+  {
+   "price": 169,
+   "conversion_pct": 4.68,
+   "units_y1": 2297,
+   "cm_unit": 15.3,
+   "cum_y3": -20165,
+   "breakeven_month": null
+  },
+  {
+   "price": 179,
+   "conversion_pct": 4.4,
+   "units_y1": 2162,
+   "cm_unit": 19.7,
+   "cum_y3": 12816,
+   "breakeven_month": 34.0
+  },
+  {
+   "price": 189,
+   "conversion_pct": 4.0,
+   "units_y1": 1965,
+   "cm_unit": 22.2,
+   "cum_y3": 17075,
+   "breakeven_month": 33.0
+  },
+  {
+   "price": 199,
+   "conversion_pct": 3.51,
+   "units_y1": 1722,
+   "cm_unit": 22.2,
+   "cum_y3": -6710,
+   "breakeven_month": null
+  },
+  {
+   "price": 209,
+   "conversion_pct": 3.25,
+   "units_y1": 1598,
+   "cm_unit": 24.8,
+   "cum_y3": -499,
+   "breakeven_month": null
+  },
+  {
+   "price": 219,
+   "conversion_pct": 2.96,
+   "units_y1": 1453,
+   "cm_unit": 25.7,
+   "cum_y3": -10596,
+   "breakeven_month": null
+  },
+  {
+   "price": 229,
+   "conversion_pct": 2.64,
+   "units_y1": 1294,
+   "cm_unit": 24.5,
+   "cum_y3": -35879,
+   "breakeven_month": null
+  },
+  {
+   "price": 239,
+   "conversion_pct": 2.34,
+   "units_y1": 1148,
+   "cm_unit": 21.9,
+   "cum_y3": -65403,
+   "breakeven_month": null
+  },
+  {
+   "price": 249,
+   "conversion_pct": 2.09,
+   "units_y1": 1025,
+   "cm_unit": 18.6,
+   "cum_y3": -91962,
+   "breakeven_month": null
+  },
+  {
+   "price": 259,
+   "conversion_pct": 1.79,
+   "units_y1": 880,
+   "cm_unit": 9.9,
+   "cum_y3": -138213,
+   "breakeven_month": null
+  },
+  {
+   "price": 269,
+   "conversion_pct": 1.67,
+   "units_y1": 822,
+   "cm_unit": 9.1,
+   "cum_y3": -143792,
+   "breakeven_month": null
+  },
+  {
+   "price": 279,
+   "conversion_pct": 1.57,
+   "units_y1": 773,
+   "cm_unit": 8.5,
+   "cum_y3": -147862,
+   "breakeven_month": null
+  },
+  {
+   "price": 289,
+   "conversion_pct": 1.39,
+   "units_y1": 684,
+   "cm_unit": -1.0,
+   "cum_y3": -179936,
+   "breakeven_month": null
+  },
+  {
+   "price": 299,
+   "conversion_pct": 1.23,
+   "units_y1": 605,
+   "cm_unit": -12.5,
+   "cum_y3": -210755,
+   "breakeven_month": null
+  }
+ ],
+ "price_best_by_profit": 189,
+ "price_recommended": 189,
+ "strategies": {
+  "Mass market (everyone)": {
+   "price": 189,
+   "conversion": 0.04,
+   "units_y1": 1964.516,
+   "net_price": 180.0,
+   "pre_marketing_margin": 72.2,
+   "cac": 50.0,
+   "cm_unit": 22.2,
+   "cm_pct": 0.123,
+   "ad_spend_y1": 98225.82,
+   "breakeven_units_y1": 5810.811,
+   "breakeven_month": 33,
+   "cum_y1": -85387.736,
+   "cum_y2": -43969.34,
+   "cum_y3": 17074.575,
+   "share_of_market": 1.0,
+   "segments": [
+    "All"
+   ]
+  },
+  "Target top 1 segment": {
+   "price": 189,
+   "conversion": 0.066,
+   "units_y1": 3234.361,
+   "net_price": 180.0,
+   "pre_marketing_margin": 72.2,
+   "cac": 36.443,
+   "cm_unit": 35.757,
+   "cm_pct": 0.199,
+   "ad_spend_y1": 117870.984,
+   "breakeven_units_y1": 3607.722,
+   "breakeven_month": 14,
+   "cum_y1": -13350.128,
+   "cum_y2": 136124.681,
+   "cum_y3": 337641.932,
+   "segment_conversion": 0.092,
+   "share_of_market": 0.26,
+   "segments": [
+    "High propensity: high battery anxiety"
+   ]
+  },
+  "Target top 2 segments": {
+   "price": 189,
+   "conversion": 0.05,
+   "units_y1": 2454.037,
+   "net_price": 180.0,
+   "pre_marketing_margin": 72.2,
+   "cac": 48.031,
+   "cm_unit": 24.169,
+   "cm_pct": 0.134,
+   "ad_spend_y1": 117870.984,
+   "breakeven_units_y1": 5337.518,
+   "breakeven_month": 25,
+   "cum_y1": -69689.513,
+   "cum_y2": -4723.782,
+   "cum_y3": 86931.668,
+   "segment_conversion": 0.06,
+   "share_of_market": 0.636,
+   "segments": [
+    "High propensity: high battery anxiety",
+    "Medium propensity: higher income"
+   ]
+  }
+ },
+ "cashflows": {
+  "Mass market (everyone)": [
+   -103366,
+   -101731,
+   -100097,
+   -98463,
+   -96828,
+   -95194,
+   -93560,
+   -91925,
+   -90291,
+   -88656,
+   -87022,
+   -85388,
+   -81936,
+   -78485,
+   -75033,
+   -71582,
+   -68130,
+   -64679,
+   -61227,
+   -57775,
+   -54324,
+   -50872,
+   -47421,
+   -43969,
+   -38882,
+   -33795,
+   -28708,
+   -23621,
+   -18534,
+   -13447,
+   -8360,
+   -3273,
+   1814,
+   6901,
+   11988,
+   17075
+  ],
+  "Target top 1 segment": [
+   -97363,
+   -89725,
+   -82088,
+   -74450,
+   -66813,
+   -59175,
+   -51538,
+   -43900,
+   -36263,
+   -28625,
+   -20988,
+   -13350,
+   -894,
+   11562,
+   24019,
+   36475,
+   48931,
+   61387,
+   73844,
+   86300,
+   98756,
+   111212,
+   123668,
+   136125,
+   152918,
+   169711,
+   186504,
+   203297,
+   220090,
+   236883,
+   253676,
+   270470,
+   287263,
+   304056,
+   320849,
+   337642
+  ],
+  "Target top 2 segments": [
+   -102057,
+   -99115,
+   -96172,
+   -93230,
+   -90287,
+   -87345,
+   -84402,
+   -81460,
+   -78517,
+   -75575,
+   -72632,
+   -69690,
+   -64276,
+   -58862,
+   -53448,
+   -48034,
+   -42620,
+   -37207,
+   -31793,
+   -26379,
+   -20965,
+   -15551,
+   -10138,
+   -4724,
+   2914,
+   10552,
+   18190,
+   25828,
+   33466,
+   41104,
+   48742,
+   56380,
+   64018,
+   71656,
+   79294,
+   86932
+  ]
+ },
+ "reference_169": {
+  "price": 169,
+  "conversion": 0.047,
+  "units_y1": 2297.052,
+  "net_price": 160.952,
+  "pre_marketing_margin": 58.105,
+  "cac": 42.762,
+  "cm_unit": 15.343,
+  "cm_pct": 0.095,
+  "ad_spend_y1": 98225.82,
+  "breakeven_units_y1": 8407.705,
+  "breakeven_month": null,
+  "cum_y1": -93756.176,
+  "cum_y2": -64890.441,
+  "cum_y3": -20164.984
+ },
+ "edge_cases": [
+  {
+   "scenario": "Base (recommended strategy)",
+   "units_y1": 3234,
+   "cm_unit": 35.8,
+   "cum_y3": 337642,
+   "breakeven_month": 14,
+   "status": "Pays back"
+  },
+  {
+   "scenario": "Competitor magnetic packs cut conversion by 25%",
+   "units_y1": 2426,
+   "cm_unit": 23.6,
+   "cum_y3": 77850,
+   "breakeven_month": 26,
+   "status": "Pays back"
+  },
+  {
+   "scenario": "Survey bias is worse than assumed (another 50% cut)",
+   "units_y1": 1617,
+   "cm_unit": -0.7,
+   "cum_y3": -181942,
+   "breakeven_month": null,
+   "status": "Loses money"
+  },
+  {
+   "scenario": "Supplier cost rises 20%",
+   "units_y1": 3234,
+   "cm_unit": 25.6,
+   "cum_y3": 190834,
+   "breakeven_month": 18,
+   "status": "Pays back"
+  },
+  {
+   "scenario": "Advertising costs double",
+   "units_y1": 3234,
+   "cm_unit": -0.7,
+   "cum_y3": -186884,
+   "breakeven_month": null,
+   "status": "Loses money"
+  },
+  {
+   "scenario": "Reach is half as large (1.5% exposure)",
+   "units_y1": 1617,
+   "cm_unit": 35.8,
+   "cum_y3": 80321,
+   "breakeven_month": 26,
+   "status": "Pays back"
+  },
+  {
+   "scenario": "Price cut to AED 149",
+   "units_y1": 4551,
+   "cm_unit": 18.1,
+   "cum_y3": 189822,
+   "breakeven_month": 18,
+   "status": "Pays back"
+  },
+  {
+   "scenario": "Growth stalls after Year 1",
+   "units_y1": 3234,
+   "cm_unit": 35.8,
+   "cum_y3": 169950,
+   "breakeven_month": 14,
+   "status": "Pays back"
+  }
+ ],
+ "sensitivity": [
+  {
+   "price": 129,
+   "ad_1.0": -10319,
+   "ad_1.5": -119596,
+   "ad_2.0": -228872,
+   "ad_3.0": -447424,
+   "ad_4.0": -665977
+  },
+  {
+   "price": 149,
+   "ad_1.0": 132123,
+   "ad_1.5": 22847,
+   "ad_2.0": -86429,
+   "ad_3.0": -304982,
+   "ad_4.0": -523534
+  },
+  {
+   "price": 169,
+   "ad_1.0": 198387,
+   "ad_1.5": 89111,
+   "ad_2.0": -20165,
+   "ad_3.0": -238717,
+   "ad_4.0": -457270
+  },
+  {
+   "price": 189,
+   "ad_1.0": 235627,
+   "ad_1.5": 126351,
+   "ad_2.0": 17075,
+   "ad_3.0": -201478,
+   "ad_4.0": -420030
+  },
+  {
+   "price": 209,
+   "ad_1.0": 218054,
+   "ad_1.5": 108777,
+   "ad_2.0": -499,
+   "ad_3.0": -219051,
+   "ad_4.0": -437604
+  },
+  {
+   "price": 229,
+   "ad_1.0": 182673,
+   "ad_1.5": 73397,
+   "ad_2.0": -35879,
+   "ad_3.0": -254432,
+   "ad_4.0": -472984
+  },
+  {
+   "price": 249,
+   "ad_1.0": 126590,
+   "ad_1.5": 17314,
+   "ad_2.0": -91962,
+   "ad_3.0": -310515,
+   "ad_4.0": -529067
+  }
+ ],
+ "channels_target": {
+  "purchase": {
+   "Amazon.ae": 27.9,
+   "Noon": 25.7,
+   "Mall electronics store": 17.0,
+   "Instagram or TikTok shop": 15.9,
+   "Telecom store": 9.0,
+   "Brand website": 4.5
+  },
+  "discovery": {
+   "Instagram": 24.6,
+   "In-store": 21.6,
+   "YouTube reviews": 20.9,
+   "Friends and family": 18.3,
+   "TikTok": 14.6
+  }
+ },
+ "format_by_brand": {
+  "Other Android": {
+   "Normal power bank": 50.2,
+   "Built-in battery case": 41.9,
+   "Detachable magnetic pack": 7.8
+  },
+  "Samsung": {
+   "Normal power bank": 47.0,
+   "Built-in battery case": 42.2,
+   "Detachable magnetic pack": 10.8
+  },
+  "iPhone": {
+   "Detachable magnetic pack": 45.2,
+   "Built-in battery case": 38.4,
+   "Normal power bank": 16.4
+  }
+ },
+ "concerns": {
+  "Bulk or weight": 32.3,
+  "Price": 23.8,
+  "Safety (heat, swelling)": 20.8,
+  "Fits only one phone model": 12.4,
+  "Brand trust": 10.8
+ },
+ "verdict": {
+  "label": "CONDITIONALLY SUSTAINABLE",
+  "strategy": "Target top 1 segment",
+  "price": 189,
+  "breakeven_month": 14,
+  "cum_y3": 337642,
+  "cm_unit": 35.8,
+  "units_y1": 3234,
+  "total_launch_cash": 156000.0,
+  "target_segments": [
+   "High propensity: high battery anxiety"
+  ],
+  "survives_edge_cases": 6,
+  "edge_cases_total": 8
+ }
+}
